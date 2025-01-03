@@ -1,0 +1,1001 @@
+CustomerID,Age,Gender,Income,Location,MonthlySpend,ContractType,PaymentMethod,TenureMonths,NumSupportTickets,RecentActivityDays,ServiceUsed,NumDevices,DataUsageGB,Churn
+893508c3,22,Female,90805,Urban,180.32,One-Year,Credit Card,36,0,27,Basic,1,70.26,0
+98b5fe87,25,Male,49158,Suburban,127.55,One-Year,Credit Card,11,2,17,Basic,2,76.04,0
+d9b8c864,59,Male,36914,Urban,166.29,Month-to-Month,Bitcoin,21,3,28,Basic,5,97.83,0
+52deae51,28,Male,97204,Urban,64.03,Month-to-Month,Credit Card,57,7,0,Basic,2,46.0,0
+19b030dc,56,Female,38781,Urban,184.83,Month-to-Month,Bitcoin,54,5,27,Premium,3,16.52,0
+2a221f27,62,Female,70394,Rural,86.81,One-Year,Bank Transfer,56,0,0,Enterprise,1,85.32,0
+f96b7efc,48,Female,72444,Rural,142.2,Month-to-Month,PayPal,32,8,19,Enterprise,2,88.44,0
+836ad2e1,20,Male,34515,Rural,160.27,One-Year,Bank Transfer,22,3,22,Premium,3,73.59,0
+2db31c78,25,Female,69199,Suburban,166.18,Two-Year,Bank Transfer,56,7,0,Premium,2,30.74,0
+f55620e9,56,Female,87912,Suburban,132.82,Month-to-Month,Bitcoin,26,0,19,Premium,4,54.91,0
+bb90fcdc,56,Male,64409,Urban,150.35,Month-to-Month,PayPal,41,9,24,Basic,2,75.5,0
+b4c856a1,56,Female,33060,Urban,113.62,Two-Year,Bank Transfer,21,7,21,Premium,5,50.29,0
+7cc59d88,20,Male,26280,Urban,77.72,Month-to-Month,PayPal,27,9,1,Basic,1,25.54,1
+5bdad5c9,66,Female,47244,Rural,118.76,Month-to-Month,Bitcoin,29,4,18,Premium,2,29.41,0
+bd376fbc,23,Female,30369,Suburban,26.32,Month-to-Month,Bank Transfer,39,6,22,Premium,1,68.96,0
+89c80062,63,Male,42745,Urban,65.62,Month-to-Month,Bitcoin,34,6,12,Premium,1,37.67,1
+85de144d,28,Female,105371,Urban,53.77,One-Year,Bank Transfer,34,0,25,Enterprise,1,31.0,0
+aa10be34,56,Male,91799,Suburban,136.75,Month-to-Month,PayPal,55,6,1,Basic,5,71.81,0
+fe0cea32,56,Male,86890,Urban,57.19,One-Year,PayPal,48,9,2,Enterprise,4,59.02,0
+a8f1360f,55,Male,51616,Suburban,67.56,Month-to-Month,Credit Card,46,9,26,Premium,3,20.39,0
+0ae382f7,24,Female,51248,Suburban,65.02,One-Year,Bank Transfer,30,9,6,Basic,4,36.34,0
+406501d1,25,Male,97946,Urban,108.72,Two-Year,Credit Card,55,1,23,Basic,3,81.18,0
+6ebadee9,61,Female,82071,Urban,79.54,Month-to-Month,Bitcoin,27,7,17,Basic,2,76.65,0
+9ecf1f7b,45,Male,92759,Urban,138.52,Month-to-Month,Bank Transfer,44,8,15,Premium,4,55.19,0
+cd2ede79,57,Male,107057,Suburban,182.32,Month-to-Month,PayPal,14,9,0,Premium,1,69.28,0
+4c22b2a7,26,Female,101552,Urban,117.28,One-Year,Bank Transfer,11,7,24,Enterprise,2,68.29,0
+ca894f0e,59,Female,88643,Urban,141.63,Month-to-Month,Bank Transfer,58,0,21,Enterprise,1,72.58,0
+56b6d326,60,Female,112389,Urban,50.71,Month-to-Month,PayPal,42,5,25,Enterprise,4,92.64,1
+96db5f61,40,Male,42266,Rural,63.88,Month-to-Month,Bank Transfer,56,4,20,Premium,2,27.58,0
+bfd5620e,43,Female,46599,Suburban,35.1,Month-to-Month,Credit Card,49,9,5,Basic,4,55.37,1
+2b77d9c9,24,Male,49847,Urban,156.59,Month-to-Month,Bitcoin,26,2,27,Basic,3,6.81,0
+e379e6ae,18,Male,91492,Suburban,35.89,Month-to-Month,Credit Card,49,4,10,Premium,5,67.37,0
+22deb883,58,Male,93779,Urban,92.63,One-Year,PayPal,51,1,15,Premium,2,44.61,0
+397342b6,22,Male,61762,Rural,189.37,One-Year,Bitcoin,11,1,4,Basic,4,14.86,0
+4c326900,28,Male,81363,Urban,56.34,Month-to-Month,PayPal,7,1,28,Basic,4,63.61,1
+85baad9c,68,Male,65407,Suburban,142.75,Month-to-Month,PayPal,3,0,20,Basic,5,71.88,0
+07a3f94c,36,Male,76072,Urban,151.43,Two-Year,Bank Transfer,15,4,25,Basic,2,30.75,0
+efd2688e,23,Male,32286,Urban,78.08,Month-to-Month,Bank Transfer,39,1,27,Premium,5,15.75,0
+833031c8,54,Male,85587,Rural,140.98,Month-to-Month,Credit Card,47,7,8,Enterprise,2,18.69,1
+da42dffb,43,Male,65582,Urban,38.3,Two-Year,Bank Transfer,11,3,0,Enterprise,3,83.6,0
+9708a506,56,Male,52694,Urban,195.33,Month-to-Month,Bank Transfer,36,4,18,Premium,5,73.06,0
+7aca8e5a,48,Female,116630,Urban,131.61,Month-to-Month,Bitcoin,41,7,7,Premium,4,47.91,1
+92ce8a20,60,Male,22336,Urban,90.39,One-Year,Bitcoin,19,2,14,Basic,1,52.06,0
+109659ba,55,Female,73597,Urban,24.43,Month-to-Month,Bitcoin,57,2,9,Basic,5,69.32,0
+9831bb6c,20,Male,58601,Suburban,106.58,Two-Year,PayPal,33,9,20,Premium,4,95.02,0
+e1e06512,37,Male,80603,Suburban,132.14,Month-to-Month,Bank Transfer,34,0,4,Basic,5,17.87,1
+0b1bb709,48,Male,20626,Urban,48.82,Month-to-Month,PayPal,42,9,12,Premium,5,57.55,0
+8afaa1eb,64,Female,54222,Urban,100.7,One-Year,Credit Card,13,5,15,Premium,5,77.15,1
+c85976fc,52,Female,76463,Rural,118.75,Month-to-Month,Bitcoin,45,5,12,Basic,2,69.67,1
+339ebd40,57,Female,84637,Urban,171.88,One-Year,Credit Card,53,4,27,Premium,3,42.81,0
+bfc0ff82,22,Male,21048,Suburban,70.96,Month-to-Month,Bank Transfer,28,3,6,Premium,1,62.8,1
+c3ab50e2,34,Male,66864,Suburban,88.03,Month-to-Month,PayPal,56,7,6,Premium,5,45.4,1
+2d7686ca,40,Female,84178,Urban,68.73,One-Year,Credit Card,16,1,20,Basic,3,57.92,1
+6978a00f,44,Male,39497,Rural,168.8,Month-to-Month,Bitcoin,28,9,7,Premium,1,49.06,0
+ba3b2dae,32,Male,32606,Urban,191.95,Month-to-Month,Bitcoin,59,3,8,Premium,2,37.94,0
+6a30b8fa,52,Female,56122,Urban,79.94,Month-to-Month,Bank Transfer,31,0,19,Premium,1,33.88,0
+d31978d8,53,Female,34987,Rural,86.57,Month-to-Month,PayPal,34,6,1,Premium,5,82.56,0
+14658848,22,Female,62260,Suburban,79.94,Two-Year,PayPal,4,6,22,Enterprise,5,72.22,1
+a24d466e,29,Female,39486,Urban,104.0,Two-Year,PayPal,58,9,10,Premium,3,36.05,0
+8c158ed2,24,Male,90946,Rural,106.87,Month-to-Month,Credit Card,16,0,14,Premium,5,70.97,1
+1eb5b17d,19,Female,57427,Rural,199.53,Month-to-Month,Credit Card,5,6,25,Basic,3,84.12,1
+20020a7c,22,Male,29616,Rural,63.04,Month-to-Month,Bitcoin,53,2,11,Premium,2,29.11,0
+89258a34,46,Female,81565,Urban,138.68,Month-to-Month,Bitcoin,19,4,29,Basic,3,99.29,0
+0385b5c4,53,Male,40054,Suburban,162.3,Month-to-Month,PayPal,13,8,18,Enterprise,2,76.7,1
+1933cff0,56,Female,103612,Suburban,163.55,One-Year,PayPal,59,0,9,Premium,5,75.08,1
+9ab5d1bb,25,Female,118438,Rural,196.54,One-Year,Bitcoin,45,7,8,Premium,3,47.35,1
+de44dc13,62,Female,87049,Rural,191.28,Two-Year,Bitcoin,14,0,27,Premium,5,12.78,0
+21a5784c,58,Female,25836,Urban,161.6,Two-Year,Credit Card,14,6,24,Basic,1,60.26,0
+16ac813f,68,Male,78461,Urban,95.43,Month-to-Month,Bank Transfer,15,4,26,Basic,3,60.38,1
+fd7fd79d,26,Male,35816,Suburban,61.52,One-Year,Credit Card,53,0,12,Premium,5,90.46,0
+5ec45216,61,Male,82100,Suburban,39.79,Month-to-Month,PayPal,25,3,10,Premium,4,64.95,0
+299c7282,38,Female,23426,Urban,146.66,Month-to-Month,PayPal,24,4,4,Premium,5,42.09,0
+8c525807,64,Male,54628,Suburban,135.69,Month-to-Month,Bank Transfer,31,2,24,Basic,3,34.35,0
+d805ddb8,22,Female,55599,Urban,195.22,Month-to-Month,PayPal,3,4,22,Premium,1,38.5,1
+f4d6ecb5,64,Male,49406,Suburban,162.24,One-Year,Bitcoin,35,9,11,Premium,4,45.41,0
+1540237c,31,Female,110408,Rural,68.02,Month-to-Month,Bank Transfer,6,7,10,Basic,1,37.84,0
+2508d798,31,Female,28911,Rural,122.2,One-Year,PayPal,15,4,18,Premium,5,79.3,0
+d05f3d26,43,Male,116907,Rural,100.0,Month-to-Month,Bank Transfer,20,5,27,Basic,2,80.29,1
+e640b0ca,58,Male,97892,Urban,120.63,Month-to-Month,Bank Transfer,14,2,9,Basic,2,6.03,0
+62c01e34,56,Male,49009,Urban,187.61,One-Year,PayPal,4,8,7,Basic,2,55.74,1
+d5dd3d2c,25,Male,39327,Suburban,51.85,Month-to-Month,Bank Transfer,40,7,23,Basic,4,86.37,1
+df697e32,22,Male,50295,Urban,50.22,Month-to-Month,Bank Transfer,31,3,25,Basic,5,56.37,0
+07239a9c,36,Male,40959,Suburban,157.84,Month-to-Month,Bitcoin,25,9,10,Premium,2,77.91,1
+822a3eec,65,Male,102650,Suburban,99.19,Month-to-Month,Bitcoin,58,9,1,Premium,5,1.25,0
+a2b82138,65,Female,21704,Rural,178.1,Month-to-Month,Credit Card,47,0,10,Basic,3,24.68,0
+d32bc073,56,Male,49321,Urban,124.82,One-Year,Bitcoin,13,8,16,Premium,2,11.42,0
+e3ab54b3,21,Male,34291,Urban,157.14,Two-Year,Bitcoin,59,9,24,Enterprise,3,40.06,0
+aad99b76,18,Male,69522,Urban,146.83,Month-to-Month,Credit Card,30,1,18,Premium,1,3.77,0
+048a1fcf,32,Male,113144,Urban,51.61,One-Year,Bank Transfer,3,8,7,Basic,5,66.29,0
+e86e3b3e,54,Female,119262,Urban,165.37,Month-to-Month,Credit Card,18,0,24,Basic,2,53.52,0
+07a5306b,34,Female,103463,Suburban,107.46,One-Year,Credit Card,44,1,14,Basic,4,23.6,0
+b2754e03,32,Female,40115,Urban,187.4,Month-to-Month,PayPal,22,8,10,Enterprise,1,78.22,0
+5e7d6f21,42,Male,114609,Rural,175.32,Two-Year,Credit Card,20,6,12,Premium,1,90.69,0
+bc1ae650,57,Female,68002,Rural,164.51,Month-to-Month,Bank Transfer,21,4,12,Premium,2,54.37,0
+12e1f8d2,34,Male,113457,Suburban,175.44,Month-to-Month,PayPal,30,6,8,Premium,2,22.27,0
+cb07b06e,23,Female,108100,Urban,118.79,Month-to-Month,Bank Transfer,3,2,17,Premium,2,38.06,1
+fa224344,66,Female,82472,Urban,110.34,Month-to-Month,Bank Transfer,45,2,6,Basic,5,70.53,1
+a8e5c4fb,24,Male,94438,Suburban,47.85,One-Year,PayPal,6,5,11,Premium,2,72.0,0
+7fcc35f0,61,Male,108493,Urban,141.95,Month-to-Month,PayPal,21,6,28,Basic,3,24.17,0
+c1377299,32,Male,92467,Suburban,117.46,Month-to-Month,Bank Transfer,26,6,0,Premium,3,56.64,0
+a38164c4,55,Male,64939,Rural,146.78,Month-to-Month,PayPal,3,3,26,Basic,1,86.56,0
+c23a9d80,55,Female,76443,Suburban,124.29,One-Year,Credit Card,8,2,28,Premium,3,20.15,0
+302fd892,25,Female,83558,Urban,118.74,Month-to-Month,Bank Transfer,37,2,15,Basic,1,71.78,0
+1993e6e2,31,Male,53219,Urban,117.73,One-Year,PayPal,34,5,20,Premium,3,1.17,0
+ceb65a81,60,Female,32032,Urban,163.38,Month-to-Month,Bitcoin,38,8,3,Basic,1,31.67,1
+6c793dca,64,Male,48692,Suburban,127.21,One-Year,Bank Transfer,14,4,2,Basic,2,63.61,1
+bc42c111,40,Male,84600,Rural,59.88,One-Year,Bitcoin,12,4,27,Premium,3,29.53,0
+6d152ef0,51,Male,83732,Urban,42.51,Month-to-Month,Bitcoin,18,2,0,Enterprise,2,18.2,0
+aec14ffe,48,Female,68956,Urban,44.05,Month-to-Month,Credit Card,11,4,29,Premium,1,9.98,1
+2ccae418,49,Male,38801,Urban,93.74,One-Year,Bitcoin,16,9,17,Premium,1,39.12,0
+ec1e5315,55,Female,66753,Urban,185.96,Month-to-Month,Credit Card,58,1,27,Premium,2,69.95,0
+b1de67e6,61,Male,71900,Urban,106.56,One-Year,Credit Card,59,5,17,Enterprise,1,21.86,0
+8eed1fc2,36,Male,46252,Urban,112.78,Month-to-Month,Bitcoin,52,4,6,Basic,2,49.89,1
+dee61399,41,Male,35889,Urban,126.85,Month-to-Month,Bank Transfer,11,2,0,Premium,5,34.23,1
+36213e21,40,Female,47928,Urban,147.13,Month-to-Month,Credit Card,45,4,23,Basic,1,43.35,1
+4b15e22b,30,Female,36651,Urban,153.24,One-Year,PayPal,40,8,8,Basic,5,25.56,0
+74815e33,58,Male,94398,Urban,170.66,One-Year,Credit Card,5,2,16,Premium,1,2.92,0
+ae2bc7fe,58,Female,34896,Suburban,38.75,Month-to-Month,Bank Transfer,49,8,4,Basic,1,3.07,0
+b8ffb8ce,52,Female,21146,Suburban,117.5,Month-to-Month,Credit Card,2,7,27,Basic,2,70.85,0
+12c74fa9,38,Male,115905,Suburban,66.45,One-Year,PayPal,3,5,20,Basic,5,53.16,1
+e821c038,62,Female,89904,Urban,120.07,Month-to-Month,Credit Card,29,1,22,Basic,4,60.56,0
+dfd2857a,22,Male,85563,Urban,41.4,One-Year,Bank Transfer,39,4,0,Premium,2,39.0,0
+4161debd,29,Male,83840,Urban,131.12,Month-to-Month,Bank Transfer,12,1,17,Basic,3,57.32,0
+076708fd,65,Female,115664,Urban,183.24,Month-to-Month,Bank Transfer,30,7,20,Premium,5,38.26,0
+4fb18acb,51,Male,46726,Urban,103.08,One-Year,Bitcoin,32,0,2,Basic,5,47.21,0
+64d4b895,48,Female,103601,Urban,171.17,One-Year,Credit Card,34,3,4,Premium,2,16.72,0
+d639b8f6,56,Female,67588,Suburban,136.79,Month-to-Month,PayPal,24,0,10,Premium,5,91.15,0
+7ab616a3,44,Female,119087,Suburban,111.0,Two-Year,PayPal,23,7,29,Premium,5,16.77,0
+538e0768,55,Male,111240,Suburban,129.67,Month-to-Month,Bank Transfer,48,8,29,Premium,2,9.28,0
+bfa3ea35,45,Female,69742,Urban,159.11,Month-to-Month,Bank Transfer,44,2,9,Basic,2,35.42,1
+918fdb09,27,Male,98382,Urban,79.95,Month-to-Month,PayPal,51,6,29,Enterprise,3,27.37,0
+73839776,40,Male,35373,Suburban,31.49,One-Year,Bank Transfer,5,8,5,Basic,1,6.27,1
+1b22f986,32,Female,24865,Rural,119.86,Two-Year,PayPal,42,8,1,Enterprise,2,93.53,0
+a2c84efe,39,Female,71093,Suburban,90.98,Month-to-Month,Bank Transfer,55,5,28,Basic,4,5.02,0
+54c91245,64,Female,45647,Rural,33.91,Month-to-Month,Credit Card,36,1,28,Enterprise,4,92.73,0
+5f27c68c,29,Female,32939,Rural,192.01,Month-to-Month,PayPal,28,2,8,Basic,2,64.89,0
+90aec945,39,Female,82749,Suburban,123.35,One-Year,Bitcoin,48,9,17,Premium,1,63.38,0
+a2e0b6ce,34,Female,87312,Suburban,152.82,Two-Year,Bank Transfer,40,9,6,Premium,3,56.78,1
+fe4514c7,65,Female,116308,Rural,62.73,Month-to-Month,Credit Card,30,3,25,Premium,2,1.84,0
+e88d5bd6,25,Female,103767,Rural,23.29,One-Year,PayPal,14,1,28,Basic,3,16.46,0
+c4e423ca,61,Female,39802,Urban,28.79,Two-Year,Bitcoin,11,5,21,Premium,4,70.88,0
+ee4023e5,35,Male,88313,Urban,196.21,One-Year,Bank Transfer,46,8,3,Premium,5,66.27,0
+b9455a6d,49,Female,68949,Suburban,127.82,Month-to-Month,Bank Transfer,5,2,17,Basic,5,81.83,1
+166d9743,69,Male,64921,Rural,180.99,Month-to-Month,Bitcoin,31,0,13,Premium,2,45.55,0
+700a2e24,36,Male,34991,Rural,186.12,Month-to-Month,PayPal,40,0,29,Enterprise,3,92.81,0
+cfa1a4da,53,Male,53170,Rural,49.09,Month-to-Month,Credit Card,51,8,4,Premium,2,85.4,0
+c2f4a4bc,67,Female,65850,Urban,81.18,One-Year,Bank Transfer,7,2,25,Basic,1,26.77,0
+9f6120dd,61,Male,80644,Rural,34.31,One-Year,Bitcoin,33,4,20,Premium,4,71.99,0
+8069f19a,45,Male,44370,Urban,172.26,One-Year,Credit Card,4,9,19,Basic,3,85.86,0
+76e60fa3,38,Male,40539,Suburban,190.84,One-Year,Credit Card,20,6,0,Basic,2,88.33,0
+4ededf50,34,Male,36904,Urban,44.99,Month-to-Month,Credit Card,29,6,29,Premium,5,59.52,0
+847f94aa,42,Female,105600,Urban,143.38,Month-to-Month,PayPal,57,4,13,Premium,4,61.76,0
+22ce029c,41,Female,62109,Urban,116.6,Month-to-Month,Credit Card,59,1,18,Premium,4,39.02,1
+0c5da15a,37,Female,24588,Rural,130.34,One-Year,Credit Card,37,2,17,Premium,3,79.41,1
+999f0113,19,Female,88471,Rural,39.72,One-Year,Bank Transfer,2,7,17,Premium,5,29.07,0
+40f82555,57,Male,116681,Urban,68.77,Month-to-Month,Credit Card,22,8,24,Basic,2,27.66,1
+b809e334,46,Female,105851,Urban,29.7,Month-to-Month,PayPal,1,5,11,Basic,2,81.25,1
+885a9d2d,61,Male,29795,Urban,57.83,Month-to-Month,Credit Card,11,9,5,Premium,3,70.61,1
+9c9fd9ce,69,Male,40009,Rural,96.17,Month-to-Month,Bitcoin,35,5,8,Premium,3,80.88,1
+a6fb032f,30,Male,38995,Urban,53.83,Month-to-Month,Bitcoin,25,7,16,Premium,2,68.71,0
+40085383,41,Male,58417,Urban,135.82,Month-to-Month,Credit Card,6,3,4,Enterprise,4,8.47,0
+4d59861c,21,Female,117661,Urban,83.19,Month-to-Month,Bank Transfer,45,8,10,Premium,2,1.51,0
+153994c2,59,Female,86243,Urban,105.31,Month-to-Month,PayPal,58,5,16,Basic,4,21.76,0
+e53a6766,37,Male,117595,Rural,172.51,Month-to-Month,Credit Card,39,5,18,Premium,5,74.77,0
+a3100704,40,Female,114249,Urban,146.69,One-Year,Bank Transfer,51,8,28,Premium,2,22.29,0
+1b809312,46,Male,28926,Rural,118.24,Month-to-Month,PayPal,51,5,11,Basic,2,91.28,0
+f3b0383e,53,Female,54993,Suburban,59.88,One-Year,Bank Transfer,30,1,13,Premium,4,59.51,0
+9fa990ea,31,Female,57067,Urban,135.71,One-Year,Bitcoin,34,9,4,Basic,1,6.99,0
+1500aeaa,63,Male,90181,Urban,31.32,Month-to-Month,Credit Card,4,1,22,Premium,1,22.32,1
+abc905f8,64,Female,83400,Urban,48.07,Month-to-Month,Bitcoin,59,8,1,Basic,3,66.22,0
+0ca14774,65,Male,36750,Urban,81.33,Month-to-Month,Credit Card,5,7,8,Basic,3,7.61,1
+524897c1,57,Male,43440,Rural,162.22,One-Year,Bank Transfer,33,1,6,Basic,5,44.46,0
+b9a392a8,33,Male,108988,Urban,139.84,One-Year,Bitcoin,30,6,18,Basic,4,99.01,0
+d7dc284a,36,Male,75891,Urban,114.78,Month-to-Month,Bitcoin,23,7,5,Premium,2,47.52,0
+37860f9c,19,Female,67331,Suburban,192.72,One-Year,PayPal,14,8,3,Premium,4,66.16,0
+804a087a,19,Male,79616,Suburban,176.42,One-Year,PayPal,6,6,19,Premium,3,12.34,0
+f057cff7,20,Male,84279,Rural,194.86,Month-to-Month,PayPal,20,6,21,Premium,4,93.75,0
+5639f0f0,18,Male,95674,Urban,38.2,One-Year,Bitcoin,54,0,14,Premium,5,88.32,0
+a55493a9,53,Female,101032,Urban,185.46,Month-to-Month,PayPal,59,9,7,Basic,4,91.36,0
+b3b8375f,34,Female,43620,Rural,150.69,Month-to-Month,PayPal,22,4,10,Premium,2,20.61,1
+71379429,62,Female,94929,Suburban,132.34,Month-to-Month,Bitcoin,14,9,20,Premium,2,47.55,0
+0569b2a5,24,Male,63627,Urban,37.16,Month-to-Month,Bank Transfer,36,8,17,Premium,5,52.22,0
+7bed1935,19,Male,55174,Suburban,52.84,Month-to-Month,Credit Card,23,7,1,Premium,1,87.76,0
+19134189,18,Male,21288,Urban,197.54,Month-to-Month,Bitcoin,26,0,29,Basic,4,14.26,1
+a5ff38f7,35,Male,89292,Urban,76.11,One-Year,Bitcoin,18,1,27,Premium,4,20.02,0
+5389dc05,40,Male,116096,Suburban,184.37,Month-to-Month,Credit Card,29,6,15,Basic,1,21.6,1
+923eecf6,37,Male,50560,Urban,177.2,Month-to-Month,Bitcoin,7,7,28,Premium,5,88.16,0
+f7cef5ab,66,Female,49815,Rural,24.73,Two-Year,Credit Card,29,5,27,Basic,4,99.57,0
+ebc3b786,40,Female,67486,Rural,64.46,One-Year,Bitcoin,2,8,2,Basic,4,21.29,0
+ee71d52a,69,Male,119445,Urban,132.26,Month-to-Month,Credit Card,26,2,23,Basic,5,36.53,1
+f2dfb3fe,28,Female,44986,Rural,170.58,Month-to-Month,PayPal,18,5,8,Basic,4,76.69,0
+a9ef2444,24,Female,88044,Suburban,55.17,Two-Year,PayPal,25,9,19,Basic,2,73.53,0
+014aad68,69,Male,116708,Urban,136.07,One-Year,Bitcoin,15,6,4,Basic,1,22.48,0
+fc9bc025,50,Male,119316,Urban,55.06,One-Year,PayPal,34,1,26,Basic,1,88.41,1
+17bfad6c,19,Female,37935,Urban,193.89,One-Year,Bank Transfer,21,4,29,Basic,1,95.65,1
+14ab3afc,62,Male,96550,Urban,189.44,Month-to-Month,Bitcoin,43,3,11,Premium,1,45.93,1
+29eaafcb,67,Female,64974,Rural,91.21,Month-to-Month,Credit Card,52,6,5,Basic,1,27.73,0
+ca104cee,24,Female,104374,Suburban,51.13,Month-to-Month,Bank Transfer,52,9,2,Enterprise,4,33.02,0
+e5a185b0,34,Female,36615,Rural,134.55,Month-to-Month,PayPal,34,2,16,Basic,2,74.31,0
+e2e75937,58,Female,115203,Suburban,42.66,Month-to-Month,Bank Transfer,50,5,10,Premium,1,31.15,0
+183aaefe,51,Female,26513,Urban,189.43,Month-to-Month,PayPal,14,9,23,Premium,1,40.85,0
+b0527a32,50,Female,96284,Suburban,49.36,Month-to-Month,PayPal,57,6,12,Premium,2,69.88,0
+00fb8524,34,Female,115908,Rural,43.06,Month-to-Month,Bank Transfer,37,2,7,Premium,2,92.48,0
+d5250df4,19,Female,47087,Suburban,22.19,One-Year,PayPal,27,9,28,Basic,3,45.93,0
+f40cc5cb,36,Male,25053,Urban,159.78,Month-to-Month,PayPal,24,4,28,Premium,2,58.57,0
+051e1970,43,Female,28533,Urban,57.74,Month-to-Month,Bitcoin,8,6,23,Basic,4,5.48,1
+4ccbd44d,44,Male,99644,Urban,34.09,Month-to-Month,PayPal,27,0,9,Enterprise,2,12.36,0
+e07bdac8,40,Female,96638,Rural,74.78,Month-to-Month,Bitcoin,8,3,16,Basic,5,74.13,1
+487758ee,23,Male,38502,Urban,32.91,Month-to-Month,Bank Transfer,58,4,9,Basic,3,41.78,0
+bec93d53,69,Female,54799,Rural,81.64,Month-to-Month,Bank Transfer,50,0,21,Premium,4,39.11,0
+ee73d499,30,Female,71259,Urban,80.01,Two-Year,Bank Transfer,39,9,8,Premium,1,30.38,0
+a91654af,28,Female,77149,Suburban,94.63,Month-to-Month,Credit Card,18,8,8,Premium,3,3.32,0
+d10d360f,40,Female,70480,Urban,68.43,One-Year,Credit Card,23,3,10,Basic,4,73.96,1
+175b377b,22,Male,87890,Urban,30.21,Month-to-Month,Bitcoin,56,8,29,Basic,4,93.26,0
+e37fff53,62,Female,81674,Suburban,102.32,One-Year,Bank Transfer,51,8,3,Basic,5,96.49,1
+7a924718,31,Male,32989,Rural,118.05,Two-Year,Credit Card,36,3,3,Basic,5,27.96,0
+a24ef682,22,Male,87263,Suburban,59.46,Month-to-Month,Credit Card,17,4,10,Basic,5,38.63,0
+d23f360d,55,Male,71324,Urban,119.72,Month-to-Month,PayPal,52,6,7,Premium,1,24.35,0
+d758a3da,66,Female,114624,Urban,60.16,One-Year,Credit Card,51,0,23,Basic,5,64.82,1
+00aad231,26,Male,99473,Suburban,168.2,One-Year,Bank Transfer,34,1,16,Premium,4,58.54,1
+716ebb11,28,Male,77870,Suburban,166.69,Month-to-Month,Credit Card,27,8,18,Premium,1,15.87,1
+bb30c46a,63,Male,83442,Suburban,61.1,Month-to-Month,Bank Transfer,31,2,22,Enterprise,1,34.66,1
+e7cd1a32,22,Male,50756,Suburban,198.21,Two-Year,Credit Card,15,9,10,Basic,5,75.5,0
+adbe41bb,61,Male,84100,Suburban,102.65,One-Year,Credit Card,16,7,18,Basic,5,20.79,0
+952c0f3a,31,Male,95594,Urban,114.62,Month-to-Month,PayPal,35,8,26,Premium,2,77.29,0
+d93a9231,55,Male,29125,Urban,110.02,One-Year,Credit Card,9,7,5,Basic,3,17.87,0
+01211b79,18,Male,112775,Suburban,148.06,Two-Year,Credit Card,33,3,19,Premium,2,85.06,1
+77168bcb,65,Male,52928,Urban,74.02,One-Year,Credit Card,53,1,4,Basic,1,68.17,0
+e14634ed,52,Female,110315,Urban,21.3,Month-to-Month,Bank Transfer,23,9,6,Basic,5,78.19,1
+72edb936,65,Male,114025,Rural,115.94,Month-to-Month,PayPal,28,5,3,Basic,2,19.83,0
+3e54747f,54,Female,37760,Rural,47.9,Month-to-Month,Credit Card,14,6,19,Premium,2,17.02,0
+c37de3f7,18,Male,25299,Rural,161.94,Month-to-Month,PayPal,20,2,3,Basic,3,38.38,0
+0b6564f8,27,Male,109239,Urban,180.19,One-Year,PayPal,22,7,28,Basic,3,14.73,0
+8b5fd816,37,Male,46610,Suburban,141.0,Month-to-Month,Bank Transfer,43,1,11,Premium,1,77.92,1
+51c6fd39,68,Male,92542,Suburban,79.69,One-Year,Credit Card,53,6,25,Premium,1,25.19,0
+bb9ace2c,23,Male,65618,Rural,105.84,Month-to-Month,Bitcoin,6,4,8,Premium,4,88.76,1
+853e3ac9,36,Male,99394,Urban,193.86,Month-to-Month,Credit Card,51,4,5,Basic,5,48.75,0
+5c90b9a0,58,Male,81211,Suburban,168.01,Two-Year,Bitcoin,32,7,8,Basic,1,30.18,0
+140a6495,56,Male,33313,Urban,50.64,Month-to-Month,Credit Card,2,0,11,Premium,4,28.27,1
+88e98b01,38,Male,65904,Rural,28.1,Month-to-Month,PayPal,47,1,7,Premium,5,8.99,1
+8c3af4f8,35,Female,92296,Urban,88.12,Month-to-Month,Bitcoin,58,7,23,Premium,5,43.28,0
+0b8b7644,68,Female,64997,Urban,98.18,Month-to-Month,Bitcoin,35,1,26,Premium,5,46.63,0
+674ed8a6,55,Female,116188,Suburban,145.38,One-Year,PayPal,19,6,7,Premium,3,70.15,1
+a557e289,36,Female,109983,Urban,113.25,Two-Year,Bitcoin,4,8,10,Premium,5,69.32,0
+9d5243b1,37,Male,80434,Rural,95.92,One-Year,PayPal,22,6,13,Premium,5,46.61,1
+cc87a46e,64,Female,78795,Urban,190.1,One-Year,Bank Transfer,31,7,17,Basic,2,96.44,0
+dc88fddb,42,Male,102676,Suburban,38.42,Month-to-Month,Bitcoin,3,1,7,Basic,3,52.43,0
+e2428763,37,Male,78788,Suburban,81.96,One-Year,Credit Card,22,8,18,Premium,5,70.4,0
+744552e9,18,Male,80884,Urban,131.5,One-Year,PayPal,39,5,14,Premium,5,48.46,0
+21265c01,51,Female,59761,Urban,176.1,One-Year,PayPal,7,5,29,Enterprise,3,13.04,0
+ac079fc9,46,Male,21363,Urban,120.0,Two-Year,Credit Card,21,5,28,Premium,5,26.52,0
+277f7201,65,Female,72122,Urban,44.97,Month-to-Month,Bitcoin,25,8,14,Enterprise,4,53.61,0
+888da362,55,Male,119256,Suburban,101.47,One-Year,PayPal,52,7,24,Basic,1,66.81,0
+8c55698d,39,Male,108779,Rural,191.47,Two-Year,Credit Card,58,5,26,Basic,1,48.03,0
+e7389f2e,61,Female,89175,Urban,44.2,Month-to-Month,PayPal,18,2,8,Basic,4,47.63,1
+6bb74509,34,Female,62516,Suburban,29.41,Month-to-Month,PayPal,2,3,20,Premium,2,37.5,1
+90c5a539,23,Male,25788,Rural,54.28,Month-to-Month,Bank Transfer,52,6,0,Premium,1,60.67,0
+ac9633ff,41,Male,84614,Rural,122.18,One-Year,Bank Transfer,42,9,25,Basic,2,51.83,1
+73b61f77,61,Female,102607,Rural,109.3,Month-to-Month,PayPal,5,2,17,Premium,1,68.83,0
+eeae37b0,46,Male,88888,Urban,182.6,One-Year,PayPal,4,7,15,Basic,1,15.99,0
+9e41d09d,66,Female,118055,Suburban,190.1,One-Year,Credit Card,34,4,7,Basic,2,71.15,1
+34f9fc41,21,Female,58912,Urban,22.43,Month-to-Month,Bank Transfer,11,8,27,Basic,4,26.23,0
+c14041cc,57,Male,31814,Rural,28.41,Two-Year,Bank Transfer,40,3,2,Enterprise,3,51.16,0
+57695eb7,40,Male,39932,Suburban,110.72,Month-to-Month,PayPal,33,5,7,Premium,3,53.8,1
+15703d00,49,Female,63438,Urban,88.65,Month-to-Month,Bitcoin,42,9,13,Basic,3,7.19,0
+79b9c0bc,47,Female,105226,Suburban,196.75,Month-to-Month,Credit Card,47,3,5,Premium,4,44.94,1
+086cb56d,34,Female,91550,Rural,94.08,Two-Year,Credit Card,51,4,16,Basic,5,46.31,0
+c3adcb3f,47,Male,105377,Urban,110.15,Month-to-Month,Bank Transfer,10,3,20,Basic,5,43.29,1
+fb9e8180,54,Male,31961,Rural,28.17,Month-to-Month,Bitcoin,23,3,10,Premium,4,69.77,0
+36ed89e8,29,Female,65325,Suburban,66.7,One-Year,Bank Transfer,3,4,25,Basic,4,75.79,0
+29656d3e,51,Male,91239,Urban,172.93,One-Year,Credit Card,32,0,21,Basic,1,63.2,0
+a48f043d,53,Female,109956,Rural,110.35,Month-to-Month,Bank Transfer,58,6,7,Premium,4,13.48,1
+44cc95b8,47,Male,60323,Rural,127.22,Month-to-Month,Bitcoin,27,5,25,Basic,5,77.33,0
+4616bcfd,49,Male,65994,Rural,57.85,One-Year,Credit Card,31,3,0,Premium,1,49.93,0
+790c5673,42,Female,63013,Rural,48.11,One-Year,PayPal,46,6,1,Basic,2,61.86,0
+e29d0875,39,Female,88519,Urban,179.9,Two-Year,Bank Transfer,22,9,29,Premium,3,44.84,0
+e7e72b9d,43,Male,52527,Urban,163.93,Two-Year,Bitcoin,34,1,22,Premium,1,75.44,0
+8de6d973,61,Male,81246,Rural,71.87,Two-Year,Credit Card,50,8,19,Premium,2,96.4,0
+51d64aca,67,Female,117568,Rural,28.06,Month-to-Month,Bank Transfer,2,4,9,Premium,5,44.22,0
+8f02d6dc,69,Male,32286,Urban,122.35,Month-to-Month,Bank Transfer,12,7,6,Premium,3,5.71,1
+d4de5e36,46,Female,110904,Urban,39.98,Month-to-Month,Credit Card,47,5,26,Basic,3,63.55,0
+45e586d1,63,Female,111981,Urban,96.48,Month-to-Month,PayPal,21,1,2,Basic,3,58.79,1
+6a5998f4,38,Female,118697,Urban,143.6,Month-to-Month,Credit Card,58,6,0,Basic,1,59.39,0
+f3eaae41,22,Female,50197,Urban,88.03,Month-to-Month,Credit Card,15,9,9,Basic,2,33.78,1
+38528552,50,Male,83649,Urban,102.28,Month-to-Month,Bank Transfer,20,3,8,Basic,5,49.23,0
+d96da9e6,32,Female,49010,Urban,33.33,One-Year,Credit Card,37,5,12,Basic,3,13.46,0
+623109a8,49,Male,107614,Rural,156.77,Two-Year,PayPal,3,1,20,Premium,2,72.12,1
+34f6f44a,53,Male,102248,Suburban,150.37,One-Year,PayPal,14,4,18,Basic,2,22.78,1
+8c5d311a,58,Female,20247,Urban,60.2,One-Year,Credit Card,16,5,22,Premium,3,31.06,0
+f55a5ae9,53,Male,94847,Rural,158.02,Month-to-Month,Bitcoin,46,2,1,Basic,2,41.69,0
+660a9950,32,Male,59440,Suburban,43.14,One-Year,PayPal,43,6,5,Premium,4,30.34,0
+83f6d051,22,Female,72717,Urban,193.78,One-Year,Bank Transfer,37,6,2,Basic,4,55.64,0
+4b9ccd6d,69,Male,88370,Urban,155.74,Month-to-Month,Bitcoin,39,2,2,Basic,5,93.47,0
+40e1ce73,43,Male,20261,Rural,79.68,Month-to-Month,PayPal,14,6,11,Premium,3,59.04,0
+85e94745,68,Female,66819,Urban,163.9,Month-to-Month,Credit Card,9,3,15,Basic,1,92.6,0
+5c0d268d,18,Female,118106,Urban,49.35,Month-to-Month,Credit Card,57,7,24,Premium,3,14.77,0
+7f6e90d7,38,Female,85844,Urban,165.91,Month-to-Month,Bitcoin,44,2,19,Basic,4,99.72,0
+13524920,54,Female,65870,Urban,54.97,One-Year,Bank Transfer,45,6,10,Premium,1,15.07,0
+aebfff5b,64,Male,44412,Suburban,113.63,Month-to-Month,Bitcoin,57,3,8,Basic,1,64.27,1
+45c2045e,44,Male,41145,Urban,81.93,Month-to-Month,Bitcoin,2,0,19,Basic,5,89.74,1
+e892329d,69,Female,61910,Rural,52.69,Two-Year,PayPal,13,0,18,Premium,5,7.9,1
+cecfcc2a,63,Male,79015,Suburban,190.94,Month-to-Month,Bank Transfer,36,4,14,Basic,2,1.3,1
+c983d6d3,55,Male,75912,Suburban,199.95,One-Year,Bitcoin,25,9,29,Basic,4,96.85,0
+24b44fad,58,Male,109203,Suburban,57.27,Month-to-Month,Bank Transfer,12,2,8,Premium,2,41.91,0
+23c5f11e,20,Male,72569,Rural,140.87,Month-to-Month,Bitcoin,1,8,28,Basic,2,48.88,1
+2cdda600,55,Male,87417,Urban,155.29,One-Year,PayPal,19,8,19,Basic,5,38.42,0
+3f724f09,46,Female,82048,Rural,88.42,Month-to-Month,PayPal,1,2,10,Basic,2,68.87,0
+ceaac223,67,Male,100254,Urban,176.6,Month-to-Month,Bitcoin,52,4,0,Premium,3,65.17,0
+0e78753c,56,Male,84995,Urban,108.54,Month-to-Month,PayPal,44,3,19,Enterprise,3,68.94,0
+8ec948be,31,Male,77081,Suburban,142.41,One-Year,Credit Card,24,1,29,Basic,3,98.98,1
+c2ad22a5,49,Male,25334,Suburban,39.87,Month-to-Month,PayPal,26,9,3,Basic,2,45.88,0
+43660fbb,53,Male,107716,Urban,75.06,Month-to-Month,Bank Transfer,16,2,28,Premium,2,24.52,0
+c19eb6a3,66,Male,104336,Suburban,194.47,Month-to-Month,PayPal,24,3,20,Premium,4,91.54,0
+d1b81dde,66,Male,64588,Suburban,186.46,One-Year,Bank Transfer,10,2,13,Basic,5,95.06,0
+1e4e02ad,20,Male,61574,Rural,159.09,One-Year,Credit Card,33,5,24,Basic,1,53.9,0
+cafbc9d0,45,Female,25030,Rural,111.14,Month-to-Month,Bitcoin,28,0,6,Premium,3,67.39,0
+785f1bb3,51,Male,32129,Suburban,167.33,Month-to-Month,PayPal,40,8,28,Premium,1,22.53,1
+421e1c55,43,Male,29015,Urban,33.22,One-Year,Bank Transfer,13,4,9,Premium,4,2.06,0
+a05a8b06,58,Male,119948,Suburban,48.06,Two-Year,Bitcoin,4,0,11,Premium,1,9.75,0
+e1b6d07b,52,Female,77069,Urban,175.24,Two-Year,PayPal,41,6,17,Basic,4,71.48,0
+780689fe,65,Male,59800,Urban,84.85,Month-to-Month,Credit Card,11,4,6,Premium,3,22.9,1
+3342fe19,54,Female,103107,Urban,115.74,Month-to-Month,PayPal,58,4,19,Basic,2,6.86,0
+fb4213a9,18,Female,106430,Suburban,104.01,Month-to-Month,Credit Card,39,6,13,Basic,3,87.02,0
+6594fa11,43,Male,78293,Urban,126.69,Two-Year,Credit Card,38,0,15,Premium,4,80.85,0
+d192f77a,49,Male,82486,Urban,46.89,Month-to-Month,Bank Transfer,46,8,18,Basic,1,10.94,1
+c857be57,26,Female,72087,Suburban,184.54,One-Year,Bank Transfer,33,7,6,Basic,3,59.78,0
+fdea390a,26,Female,113587,Urban,81.68,One-Year,PayPal,10,9,23,Premium,1,78.13,0
+c6cb2496,31,Male,73496,Rural,199.94,One-Year,PayPal,53,4,5,Premium,2,80.94,0
+214fc5e6,60,Female,95697,Rural,147.88,Month-to-Month,Bank Transfer,49,3,9,Premium,5,41.84,0
+adb55de1,63,Female,45375,Rural,160.53,Month-to-Month,PayPal,31,1,20,Enterprise,4,96.53,0
+6fd6257b,21,Male,35862,Suburban,97.69,Month-to-Month,Bitcoin,23,3,20,Basic,3,49.24,1
+24289baf,49,Female,39005,Urban,151.33,Month-to-Month,PayPal,35,2,29,Premium,2,32.7,0
+d8dfee2e,51,Male,92825,Urban,82.53,Month-to-Month,Bitcoin,39,7,22,Basic,1,45.52,0
+60d2bef8,64,Male,24764,Urban,128.25,Month-to-Month,Bitcoin,20,3,7,Basic,2,44.94,0
+c518f75d,20,Female,89250,Urban,35.38,Month-to-Month,Bank Transfer,3,1,14,Premium,4,55.6,0
+86d581df,54,Male,113006,Rural,139.1,One-Year,Bank Transfer,47,1,21,Premium,1,87.48,0
+a9a21007,38,Male,41554,Urban,69.43,One-Year,Credit Card,27,4,2,Basic,3,99.98,0
+0ea8d465,52,Female,97973,Urban,123.77,Month-to-Month,Bank Transfer,12,2,5,Premium,4,8.38,1
+a86b5ac4,54,Female,117599,Urban,130.72,Month-to-Month,Bank Transfer,45,1,16,Basic,3,58.19,0
+0b9e3a1a,34,Female,103113,Suburban,22.67,One-Year,Bank Transfer,1,0,11,Basic,5,36.38,0
+202dfbdb,22,Male,107792,Suburban,196.47,One-Year,Bitcoin,8,2,9,Basic,2,3.47,0
+662cea6a,54,Female,99644,Urban,199.87,Month-to-Month,Credit Card,38,4,7,Enterprise,4,88.01,0
+f37f80a3,61,Male,114217,Urban,145.06,Month-to-Month,Bitcoin,52,6,28,Basic,5,33.9,0
+1dba3197,37,Male,33401,Suburban,45.33,One-Year,Bitcoin,54,7,11,Premium,3,27.81,0
+0d82ae22,66,Female,85810,Suburban,75.55,Month-to-Month,PayPal,20,7,29,Premium,1,47.82,0
+b2bada22,25,Female,94890,Urban,88.68,Month-to-Month,Credit Card,30,0,20,Basic,4,98.47,0
+fbe07eda,42,Female,73881,Suburban,87.34,One-Year,PayPal,33,6,10,Basic,1,81.83,0
+e7d4c953,20,Female,55077,Suburban,27.45,Two-Year,PayPal,16,1,28,Premium,2,77.48,1
+e1f47e91,52,Female,101733,Suburban,188.92,Month-to-Month,PayPal,12,0,15,Premium,5,63.89,1
+e75960a4,68,Female,109525,Rural,63.24,Month-to-Month,PayPal,26,2,17,Basic,2,39.31,1
+3cc04baa,42,Male,27786,Urban,81.07,One-Year,Bank Transfer,36,5,8,Premium,1,44.94,0
+d654cf73,57,Female,47862,Urban,21.13,Month-to-Month,Bank Transfer,22,4,27,Basic,4,76.27,1
+62e3daa6,55,Male,26895,Urban,153.29,Month-to-Month,Bitcoin,6,0,6,Basic,1,17.16,1
+21d50ee6,33,Male,73189,Urban,89.91,Month-to-Month,Bitcoin,47,7,18,Premium,3,32.65,0
+2afb137d,28,Male,72900,Urban,115.56,One-Year,Credit Card,34,2,29,Basic,5,7.03,0
+e7a1aeba,44,Male,77714,Rural,149.79,Month-to-Month,Bitcoin,22,7,4,Basic,1,6.7,0
+e670f88e,34,Female,109899,Suburban,120.8,Two-Year,PayPal,53,8,6,Basic,2,69.72,0
+e495a74b,47,Male,39587,Suburban,48.79,Month-to-Month,Bank Transfer,49,1,16,Premium,4,96.73,1
+829b250b,55,Female,66050,Urban,48.56,One-Year,PayPal,36,6,0,Basic,2,43.51,0
+61bd661a,58,Female,94607,Urban,70.09,Two-Year,PayPal,54,2,1,Enterprise,4,67.7,0
+315c1023,32,Male,54230,Urban,116.66,One-Year,Bitcoin,16,2,11,Basic,5,65.51,0
+0b421d2b,25,Female,34338,Rural,112.02,Two-Year,Bitcoin,44,3,3,Basic,1,82.28,0
+0944fb5b,60,Female,89748,Rural,148.4,Month-to-Month,PayPal,57,8,19,Basic,5,18.84,0
+18f97d53,49,Male,113020,Rural,115.49,One-Year,Bitcoin,17,8,14,Premium,5,53.36,0
+46533d9b,34,Female,98323,Rural,62.54,Month-to-Month,Bitcoin,9,3,16,Premium,2,14.11,0
+258a3c2a,28,Male,97216,Rural,69.07,One-Year,Bitcoin,28,7,16,Premium,1,43.45,0
+4df2f365,49,Female,47570,Suburban,57.17,One-Year,Credit Card,36,6,29,Basic,2,97.82,0
+603c1779,67,Male,100052,Urban,128.62,Two-Year,Bitcoin,7,2,11,Basic,2,23.84,0
+625c1fdc,34,Male,49712,Urban,94.42,One-Year,Bitcoin,7,1,23,Premium,1,44.93,0
+f83a99df,42,Male,106552,Urban,127.05,Month-to-Month,Bank Transfer,58,6,12,Basic,3,24.85,0
+a389eefa,47,Male,69318,Urban,129.48,Month-to-Month,Bank Transfer,33,6,6,Premium,5,40.82,0
+9ac20022,60,Female,56786,Suburban,183.46,Month-to-Month,Bitcoin,10,1,17,Premium,2,75.74,1
+68564845,67,Female,85712,Suburban,41.25,One-Year,PayPal,16,1,22,Premium,5,80.9,1
+e71243e4,40,Female,94427,Rural,140.05,One-Year,PayPal,18,8,17,Premium,5,23.83,0
+c782beda,44,Male,40771,Suburban,156.82,Two-Year,Bitcoin,40,5,6,Premium,4,67.64,0
+61fafd4e,31,Female,75659,Urban,159.35,Month-to-Month,PayPal,42,0,15,Basic,3,93.08,0
+d7a190cf,60,Female,40209,Suburban,46.11,Month-to-Month,Bitcoin,49,8,4,Basic,4,86.69,1
+b1ff023b,62,Male,29395,Urban,105.56,One-Year,Credit Card,29,4,8,Premium,5,79.55,0
+abec28ee,67,Female,96879,Suburban,38.33,Month-to-Month,Credit Card,41,3,24,Basic,4,31.29,1
+8901621b,19,Female,54771,Suburban,28.88,One-Year,Bitcoin,8,3,7,Basic,3,92.39,0
+32291035,51,Female,106500,Urban,174.6,Two-Year,Bitcoin,22,8,22,Premium,4,63.96,0
+0548fb6d,59,Male,98785,Urban,184.09,One-Year,Bank Transfer,3,0,5,Basic,5,25.35,0
+dcd844ac,64,Male,20861,Urban,188.51,Month-to-Month,PayPal,57,1,8,Premium,5,54.86,0
+6d3cc3f6,23,Male,24597,Urban,181.21,One-Year,Bank Transfer,38,2,0,Enterprise,4,95.25,1
+d3c2d2af,42,Male,99350,Suburban,194.08,Month-to-Month,Bitcoin,46,6,8,Basic,5,2.88,0
+1132344c,52,Female,40452,Suburban,186.04,Month-to-Month,Bitcoin,11,7,22,Basic,1,69.21,1
+74601ca0,39,Female,87863,Suburban,182.49,Month-to-Month,Credit Card,59,9,15,Basic,4,32.85,1
+90e7da01,34,Female,75927,Urban,161.67,Month-to-Month,Bank Transfer,43,8,12,Premium,2,31.17,0
+ee9e7cb1,32,Female,26783,Suburban,135.74,Month-to-Month,Bitcoin,47,7,2,Enterprise,5,31.05,0
+6dc98512,20,Male,100958,Urban,60.47,Month-to-Month,Credit Card,24,2,11,Premium,1,98.72,1
+21cb9d5e,69,Male,42653,Suburban,165.76,Month-to-Month,Credit Card,17,4,6,Basic,1,91.19,0
+dde97056,68,Female,54982,Urban,58.7,Month-to-Month,Bitcoin,13,6,26,Enterprise,1,4.61,0
+178ca942,61,Male,111722,Suburban,151.64,Month-to-Month,Bitcoin,3,4,15,Basic,5,9.77,1
+adaa8640,58,Male,90979,Urban,24.88,Month-to-Month,PayPal,27,9,19,Premium,1,17.86,0
+fbaaffc0,37,Female,66433,Urban,177.75,Month-to-Month,Bitcoin,30,8,18,Basic,5,44.53,1
+5141db78,48,Male,67281,Suburban,182.74,Month-to-Month,Bitcoin,14,6,21,Premium,5,82.95,1
+e1ce7afb,55,Female,39350,Urban,65.81,Month-to-Month,Bitcoin,2,2,14,Premium,4,16.55,1
+09f985c5,60,Female,37659,Suburban,46.57,One-Year,Bank Transfer,30,0,19,Basic,3,46.48,1
+0f6e832a,19,Female,93504,Urban,111.37,Month-to-Month,PayPal,4,9,17,Premium,4,67.53,0
+7f32507d,68,Male,74838,Suburban,80.02,Month-to-Month,Bitcoin,28,6,8,Premium,2,85.13,1
+2df8887f,44,Male,102617,Urban,85.67,One-Year,Credit Card,59,4,6,Premium,3,62.33,0
+ef2718bd,36,Male,49508,Urban,111.78,Month-to-Month,Bitcoin,22,4,22,Premium,5,39.96,1
+bb1a6a99,27,Male,83676,Urban,164.46,One-Year,Bitcoin,23,2,2,Premium,4,48.75,0
+6cedd617,41,Female,26822,Urban,128.23,Month-to-Month,Bank Transfer,10,6,20,Basic,5,56.53,1
+fe23a476,52,Female,103179,Suburban,30.59,One-Year,Credit Card,17,2,8,Basic,2,80.13,0
+99f9ea2b,43,Female,86491,Urban,174.32,One-Year,Credit Card,27,4,16,Premium,1,80.49,0
+adcfebbb,47,Female,96564,Suburban,63.47,Month-to-Month,Bitcoin,8,9,10,Basic,4,11.31,1
+16ccd286,51,Female,50679,Suburban,118.69,One-Year,Bank Transfer,38,0,3,Premium,3,36.36,0
+e4e491a0,64,Male,41881,Suburban,154.9,Month-to-Month,PayPal,32,1,17,Basic,2,11.06,0
+ccc2b306,28,Male,119816,Rural,23.14,One-Year,PayPal,33,8,22,Premium,1,64.42,0
+86babd16,30,Male,84837,Rural,70.62,Month-to-Month,Credit Card,10,1,16,Premium,3,71.77,0
+7c6bbea1,28,Male,63723,Rural,117.75,One-Year,PayPal,52,8,28,Premium,4,97.94,0
+1636228f,64,Female,82242,Urban,35.0,One-Year,Bitcoin,1,9,25,Basic,5,42.83,0
+124bea08,55,Male,78905,Rural,197.06,Month-to-Month,Credit Card,11,4,14,Enterprise,1,38.01,1
+454fbf40,29,Female,88060,Rural,135.12,Month-to-Month,Credit Card,20,7,19,Basic,1,15.16,0
+4d4fa225,66,Female,74569,Suburban,132.39,One-Year,Bitcoin,52,9,13,Premium,4,30.19,1
+36e62b41,64,Male,100408,Suburban,114.77,Two-Year,Bank Transfer,15,7,18,Basic,3,73.17,0
+86b65075,33,Female,80781,Urban,104.84,Month-to-Month,Bank Transfer,9,7,26,Premium,1,37.73,0
+a68114a4,24,Female,90860,Suburban,125.41,One-Year,Credit Card,1,5,20,Premium,1,7.71,0
+c2769638,50,Female,117972,Urban,27.71,One-Year,PayPal,46,5,24,Premium,4,58.55,0
+b2339161,62,Female,117471,Suburban,147.07,Month-to-Month,Bank Transfer,37,4,18,Basic,3,15.81,0
+296fc212,40,Female,23164,Suburban,154.52,Month-to-Month,Credit Card,36,8,19,Premium,4,39.4,0
+26f26353,18,Female,59771,Urban,57.43,One-Year,Bitcoin,46,2,1,Basic,5,27.69,0
+880d7680,51,Male,70835,Urban,113.2,One-Year,Credit Card,13,2,15,Basic,5,34.75,0
+7b2b280d,35,Female,100749,Urban,133.85,Month-to-Month,Credit Card,27,5,26,Premium,1,14.86,0
+cb92cd2a,58,Female,67824,Suburban,21.29,Two-Year,Bank Transfer,16,8,3,Basic,4,73.99,0
+1cb39cb9,45,Female,30372,Urban,192.04,One-Year,Bitcoin,16,3,3,Premium,1,50.09,0
+aaaf70c8,63,Female,65955,Suburban,51.01,Month-to-Month,Credit Card,23,9,0,Enterprise,4,78.54,0
+d5233964,26,Male,86782,Suburban,80.85,Month-to-Month,Bitcoin,40,5,22,Basic,1,60.77,0
+20b8f11b,30,Male,74345,Suburban,193.11,Two-Year,PayPal,3,0,28,Enterprise,5,62.15,0
+4f512d67,63,Male,86810,Rural,55.18,One-Year,PayPal,27,9,18,Basic,4,86.97,0
+5b7fea7a,48,Female,118914,Suburban,60.9,Month-to-Month,Bitcoin,50,1,29,Basic,3,88.83,1
+ab255948,68,Male,77867,Urban,67.66,Month-to-Month,Bitcoin,40,1,8,Basic,3,50.17,1
+cecd751a,32,Male,25067,Urban,50.97,Month-to-Month,Bitcoin,21,1,6,Basic,3,29.75,0
+d812031c,33,Male,99307,Urban,111.97,One-Year,PayPal,27,2,28,Basic,4,67.4,0
+b4742d7f,44,Female,84934,Suburban,194.22,Month-to-Month,Bitcoin,28,8,16,Premium,2,76.59,0
+25adba96,33,Male,93872,Suburban,164.36,Month-to-Month,Bank Transfer,25,5,3,Basic,2,18.9,0
+8bf17b46,40,Female,45195,Suburban,177.8,Month-to-Month,Credit Card,13,7,17,Basic,4,6.28,1
+5e09118b,21,Male,110299,Urban,69.19,One-Year,Credit Card,19,5,25,Premium,4,24.25,0
+7264c3c7,29,Male,93870,Urban,153.61,Month-to-Month,Bank Transfer,1,4,6,Basic,3,64.7,0
+51534fc7,60,Female,59091,Urban,170.18,Month-to-Month,Bitcoin,39,0,22,Premium,2,51.08,0
+ce77247a,27,Female,56605,Suburban,129.8,Two-Year,Bank Transfer,10,2,28,Premium,1,89.44,0
+4db15723,21,Female,22830,Rural,195.19,Month-to-Month,Bank Transfer,35,7,13,Enterprise,5,45.38,0
+d8d73de4,18,Female,75517,Suburban,135.12,Month-to-Month,Bank Transfer,3,1,6,Premium,5,93.49,1
+f913d63c,39,Male,117770,Suburban,33.65,One-Year,Bitcoin,13,7,0,Premium,5,86.39,0
+228ce45c,65,Female,80646,Rural,105.92,Two-Year,Credit Card,39,9,8,Basic,3,42.32,0
+4631ebe1,64,Female,59910,Urban,152.91,Month-to-Month,PayPal,1,9,24,Premium,5,32.64,1
+629101f2,27,Female,38327,Rural,192.75,One-Year,Bank Transfer,59,3,15,Premium,2,80.96,0
+5a840d5a,54,Female,82573,Urban,21.63,Month-to-Month,Bank Transfer,20,6,5,Premium,4,95.92,0
+b09d23d0,24,Female,81819,Rural,36.35,Month-to-Month,Credit Card,47,1,27,Premium,3,92.05,0
+3e6d2166,44,Female,47081,Urban,118.26,One-Year,Credit Card,7,8,29,Enterprise,2,45.64,0
+a0054967,54,Female,35281,Suburban,167.72,Month-to-Month,PayPal,15,0,14,Basic,3,21.05,0
+1f9029c9,41,Male,93698,Rural,153.89,One-Year,Bank Transfer,53,8,20,Basic,2,86.48,0
+7ebb920f,18,Male,93706,Suburban,31.06,Two-Year,Credit Card,57,0,5,Basic,4,48.27,0
+f140d274,49,Female,44702,Urban,21.9,Two-Year,Bitcoin,58,5,6,Basic,3,87.32,0
+3eff8921,50,Male,23615,Rural,198.97,One-Year,PayPal,20,6,21,Basic,5,17.27,0
+78f0cdbc,33,Female,52082,Suburban,110.84,One-Year,Credit Card,31,6,25,Enterprise,5,19.54,0
+17030730,18,Male,54559,Urban,176.24,Month-to-Month,PayPal,27,2,9,Basic,4,26.38,0
+bd062875,40,Male,97015,Urban,189.3,Month-to-Month,Bitcoin,17,1,4,Basic,2,77.8,0
+2ed076b5,44,Male,93043,Urban,52.65,Month-to-Month,Bank Transfer,16,8,10,Enterprise,5,56.66,0
+75805296,52,Male,88217,Suburban,27.49,Month-to-Month,Bitcoin,55,8,18,Basic,4,41.46,1
+fda4ad48,33,Female,109529,Suburban,71.93,One-Year,Bitcoin,53,4,11,Premium,3,85.67,0
+10f31c5b,55,Male,69158,Urban,139.83,Month-to-Month,Credit Card,32,0,22,Basic,4,18.1,1
+7f0f9f50,40,Female,27501,Urban,34.83,One-Year,Credit Card,13,7,2,Premium,5,9.67,1
+30cb4df6,24,Male,115289,Urban,27.62,Month-to-Month,Bank Transfer,31,5,20,Basic,3,64.06,0
+0632c884,52,Male,94406,Suburban,181.83,Month-to-Month,Bitcoin,34,4,8,Premium,4,37.92,0
+925fdfbb,55,Female,33219,Urban,71.69,One-Year,PayPal,59,4,10,Enterprise,4,23.38,0
+9457102d,38,Female,85209,Urban,99.66,Month-to-Month,Bank Transfer,10,5,27,Premium,4,13.58,0
+c9e4934d,23,Female,112629,Urban,187.9,One-Year,Credit Card,33,7,8,Basic,2,73.31,0
+827d5f63,69,Male,95762,Suburban,64.53,Month-to-Month,Credit Card,57,5,27,Basic,4,15.19,0
+f9ece09e,47,Male,81438,Rural,67.9,Month-to-Month,Bank Transfer,54,7,23,Basic,1,47.79,1
+721ecd05,49,Male,53703,Urban,199.14,Month-to-Month,Credit Card,45,2,26,Basic,4,87.32,0
+87bbf6a1,51,Female,47297,Urban,48.54,Month-to-Month,Bitcoin,7,5,0,Basic,4,92.76,0
+85da07b2,24,Female,84452,Suburban,38.35,Month-to-Month,Bank Transfer,31,0,1,Basic,1,52.94,0
+f9cee6d3,64,Male,73507,Urban,35.41,One-Year,Bank Transfer,30,1,9,Premium,1,79.22,0
+052029fc,66,Female,81530,Urban,189.05,One-Year,Credit Card,51,4,13,Basic,2,84.01,0
+ca7c99c4,51,Male,30231,Urban,137.16,Month-to-Month,Bank Transfer,27,6,28,Basic,2,64.2,1
+89200a4d,50,Female,30684,Suburban,173.71,Two-Year,Bitcoin,9,9,25,Premium,5,10.63,1
+6003491b,46,Female,118596,Suburban,179.81,Month-to-Month,Credit Card,58,9,22,Basic,2,60.29,0
+f2fe1fe1,22,Male,28172,Rural,191.99,Month-to-Month,Credit Card,26,2,2,Premium,1,37.14,0
+f84fa23b,36,Female,42904,Suburban,114.92,One-Year,Credit Card,25,0,7,Basic,3,32.41,0
+dbf1153d,55,Male,66020,Suburban,92.95,Month-to-Month,Credit Card,27,8,21,Premium,2,58.37,0
+eed68030,28,Female,45088,Urban,108.17,One-Year,Bank Transfer,55,1,21,Basic,2,62.35,0
+b8e0a4d1,55,Male,41641,Urban,63.72,Month-to-Month,PayPal,23,3,26,Enterprise,5,71.7,0
+b1493e41,22,Female,76901,Suburban,178.69,Two-Year,Bitcoin,9,6,3,Premium,2,39.62,0
+8a7b519c,27,Female,52093,Urban,183.05,Month-to-Month,Credit Card,16,7,0,Basic,4,43.73,0
+5463d5fa,61,Male,87820,Urban,144.07,Month-to-Month,Credit Card,1,4,5,Basic,1,1.18,0
+c7f84211,26,Male,54203,Urban,110.6,Two-Year,Bitcoin,59,4,20,Enterprise,3,81.85,1
+f530ee38,39,Male,64303,Urban,104.07,Month-to-Month,Bank Transfer,35,2,2,Basic,2,25.3,0
+17a80bf7,44,Male,55049,Suburban,89.28,Month-to-Month,PayPal,27,4,1,Basic,2,72.73,0
+4a5fc38f,68,Male,79435,Suburban,50.54,Two-Year,Credit Card,51,3,0,Basic,1,2.54,0
+3ae6848e,26,Male,71532,Rural,89.47,Month-to-Month,PayPal,47,5,10,Basic,1,48.22,0
+a820fdaa,24,Male,27088,Rural,89.08,Month-to-Month,PayPal,17,9,26,Basic,4,84.22,0
+c80ff439,26,Female,107202,Urban,48.6,Month-to-Month,Bank Transfer,34,0,13,Basic,3,84.65,1
+b8c337bc,29,Female,99056,Urban,135.31,One-Year,Bitcoin,36,0,28,Premium,2,78.44,0
+99fb0ad5,62,Male,57677,Urban,38.1,Month-to-Month,Bitcoin,18,0,8,Premium,2,86.44,1
+e845761b,31,Female,29667,Urban,121.41,Month-to-Month,Credit Card,27,2,25,Basic,4,74.47,0
+2420fd45,57,Female,46693,Urban,102.19,One-Year,Bank Transfer,14,7,27,Premium,5,12.82,0
+f41f7042,27,Female,113294,Urban,82.92,Month-to-Month,Bitcoin,22,6,4,Premium,4,48.9,0
+2f9ae90a,47,Female,32049,Rural,136.22,Month-to-Month,Bitcoin,16,9,27,Basic,3,20.52,0
+52a90bbd,58,Male,55771,Urban,116.8,One-Year,Bank Transfer,14,1,1,Basic,3,9.22,0
+6b9c3b8a,49,Male,113307,Suburban,118.08,One-Year,Credit Card,32,0,15,Premium,2,1.98,0
+453644b9,49,Male,93762,Suburban,104.59,One-Year,Credit Card,33,0,17,Basic,4,75.21,0
+dc8ac63a,42,Female,73332,Urban,65.81,Month-to-Month,Bitcoin,28,6,9,Premium,5,54.56,0
+0ff29ede,45,Female,37501,Rural,181.82,Month-to-Month,PayPal,17,4,24,Basic,1,36.68,0
+31fa3124,57,Female,52379,Urban,137.77,One-Year,Credit Card,8,9,18,Basic,3,39.05,1
+34c0dd2d,18,Female,99494,Suburban,55.04,Month-to-Month,PayPal,41,8,3,Enterprise,3,43.37,1
+f5f9dd5c,44,Male,107618,Rural,100.31,Month-to-Month,Bitcoin,46,5,29,Basic,5,2.58,1
+edd32de1,55,Female,93077,Suburban,31.42,Month-to-Month,Bank Transfer,3,3,19,Basic,5,96.79,1
+c0d1767a,63,Female,69599,Rural,100.34,Month-to-Month,Bank Transfer,5,9,15,Premium,1,3.21,0
+cc0d9752,65,Female,82430,Suburban,170.28,Month-to-Month,Credit Card,33,5,29,Premium,4,64.76,0
+08916625,54,Female,36068,Urban,151.22,Month-to-Month,Bank Transfer,1,0,20,Premium,5,80.69,0
+f78d5d30,59,Male,36557,Rural,61.74,One-Year,Bank Transfer,7,0,21,Premium,2,51.1,1
+f8558ff7,21,Male,80739,Urban,86.55,Month-to-Month,Credit Card,12,8,15,Premium,2,63.52,0
+46cec236,69,Female,52827,Urban,42.64,One-Year,Bank Transfer,40,8,18,Premium,4,34.83,0
+6bbc4f9d,22,Male,55736,Suburban,169.41,Month-to-Month,PayPal,43,0,1,Basic,2,58.26,0
+3e8be25b,61,Male,21411,Suburban,134.85,Month-to-Month,Bitcoin,26,5,11,Premium,2,37.59,0
+2bba59c9,46,Female,52053,Urban,186.29,One-Year,Bank Transfer,54,4,24,Enterprise,5,9.55,0
+fad680b0,67,Female,35293,Suburban,67.5,Month-to-Month,Bitcoin,7,3,18,Basic,1,51.29,1
+72d05120,46,Male,115408,Urban,133.91,Month-to-Month,Credit Card,24,1,14,Enterprise,1,18.46,0
+95541d14,37,Female,57176,Suburban,87.07,Month-to-Month,Credit Card,9,7,27,Basic,1,65.18,0
+441043b4,42,Male,36133,Urban,24.08,Month-to-Month,Credit Card,6,5,20,Basic,4,65.35,1
+3b829738,26,Female,67159,Urban,25.4,Month-to-Month,Bank Transfer,36,1,11,Enterprise,4,37.41,0
+932786f9,23,Female,41656,Urban,135.18,Month-to-Month,PayPal,58,9,15,Premium,4,11.67,1
+56084129,59,Female,84631,Suburban,20.07,One-Year,Credit Card,52,5,22,Premium,1,31.0,0
+5375612a,53,Female,49794,Rural,155.8,One-Year,Credit Card,4,2,14,Premium,3,11.83,0
+4d59a35f,33,Male,47579,Suburban,86.95,Month-to-Month,Bank Transfer,26,7,11,Basic,2,81.49,0
+9fabf9b7,51,Female,113941,Rural,89.45,Month-to-Month,Credit Card,44,1,27,Basic,1,30.22,0
+39802d58,25,Female,85074,Suburban,69.88,Month-to-Month,Bitcoin,44,9,7,Enterprise,4,66.62,0
+f5a59c1a,67,Male,33230,Rural,162.6,Two-Year,Credit Card,56,4,24,Premium,5,58.28,0
+3ecdf268,22,Female,41014,Rural,81.24,Month-to-Month,Bank Transfer,19,6,22,Basic,5,73.72,0
+2037a7af,64,Male,102616,Suburban,161.68,Month-to-Month,Bitcoin,36,1,15,Basic,1,39.54,0
+0a8d4b0d,54,Female,72421,Urban,183.42,Month-to-Month,Bitcoin,45,6,3,Enterprise,1,59.88,0
+7cecc4e4,39,Male,51128,Urban,105.9,Month-to-Month,Credit Card,46,3,3,Premium,5,76.27,0
+264adafe,32,Female,93895,Urban,28.56,Month-to-Month,Credit Card,33,7,8,Premium,5,26.64,0
+4af517f0,27,Male,95448,Urban,166.87,One-Year,PayPal,51,8,24,Basic,2,93.21,0
+b18a63f9,28,Female,79633,Suburban,147.7,Month-to-Month,Credit Card,4,6,24,Basic,4,11.44,0
+df70e908,31,Male,70255,Rural,125.65,Month-to-Month,PayPal,54,0,6,Basic,3,19.46,0
+2b4c8a04,25,Female,39910,Urban,154.22,One-Year,PayPal,37,1,21,Basic,5,2.38,1
+8e645433,32,Female,81650,Rural,178.64,Two-Year,Credit Card,49,9,3,Basic,2,80.08,0
+b69dcd4d,32,Female,40962,Rural,21.34,Month-to-Month,PayPal,50,4,29,Basic,2,47.26,0
+9abd89a6,53,Female,116921,Urban,109.35,One-Year,Bitcoin,23,3,24,Premium,5,61.06,0
+e5b78bb4,24,Male,45240,Urban,110.74,One-Year,PayPal,32,5,3,Enterprise,3,2.51,1
+15699a3b,50,Male,112602,Urban,24.42,Month-to-Month,Bitcoin,14,3,26,Premium,2,27.24,0
+c5c10814,42,Female,68125,Suburban,135.41,Month-to-Month,Bitcoin,28,9,19,Premium,5,20.64,1
+e2c50371,50,Male,59461,Rural,168.74,One-Year,Bitcoin,27,7,19,Premium,3,6.42,0
+b4bd6d9b,18,Female,61910,Urban,90.23,Month-to-Month,Bank Transfer,2,2,18,Premium,2,74.3,1
+b3b83a0e,61,Female,69937,Urban,72.55,Month-to-Month,Credit Card,42,5,9,Premium,1,89.77,0
+68b1781c,56,Female,46719,Urban,21.34,One-Year,PayPal,45,2,21,Premium,5,6.17,0
+7ee07729,52,Male,56762,Urban,176.86,One-Year,Bank Transfer,8,4,11,Basic,2,19.75,0
+9206e7ad,21,Male,50638,Suburban,79.9,Month-to-Month,PayPal,39,6,20,Basic,2,15.37,1
+89999e6b,35,Male,62149,Suburban,131.29,Month-to-Month,PayPal,26,2,0,Basic,5,25.73,0
+2954da3c,44,Male,20086,Rural,91.79,Two-Year,Credit Card,12,2,23,Basic,5,29.94,0
+8bbbb0fc,33,Male,21028,Urban,169.55,Month-to-Month,Bank Transfer,56,8,0,Basic,5,91.04,1
+4b755786,24,Female,92116,Urban,44.48,Month-to-Month,Bitcoin,56,3,9,Basic,4,19.3,0
+2d41c153,21,Female,113392,Urban,74.36,One-Year,Bank Transfer,32,9,16,Premium,2,15.28,0
+f3707def,58,Male,46404,Urban,97.43,One-Year,Credit Card,9,3,18,Basic,1,44.55,0
+7f8b81f2,54,Male,83168,Urban,71.26,One-Year,Credit Card,35,7,18,Premium,1,86.38,0
+29d07eeb,49,Female,101463,Suburban,69.61,Month-to-Month,PayPal,58,7,3,Premium,4,72.11,0
+3056b724,30,Female,64116,Urban,110.26,One-Year,Credit Card,37,9,21,Premium,1,46.24,0
+13c4cdfa,38,Female,51725,Rural,145.33,Month-to-Month,Credit Card,26,6,21,Enterprise,1,8.93,0
+95c459d8,46,Female,62620,Urban,188.67,One-Year,Bitcoin,39,9,26,Basic,4,60.28,1
+5b5b9fcd,34,Male,63202,Suburban,119.37,Month-to-Month,PayPal,40,7,1,Enterprise,2,63.76,1
+38fbecbb,18,Male,59785,Suburban,149.55,Month-to-Month,Bitcoin,19,5,25,Enterprise,4,77.65,1
+ca1bee90,67,Male,105784,Suburban,86.31,Month-to-Month,Bitcoin,38,3,20,Basic,1,31.48,0
+ca6d44ae,38,Female,82876,Urban,58.89,One-Year,Credit Card,46,9,17,Premium,1,14.13,0
+35bbc153,43,Female,115787,Urban,139.52,Month-to-Month,Credit Card,55,3,18,Premium,1,95.72,0
+aba012bf,34,Female,62084,Urban,76.56,One-Year,PayPal,13,1,1,Premium,1,77.33,0
+d29be6a0,65,Male,68028,Rural,110.02,One-Year,Credit Card,22,6,19,Basic,4,31.11,0
+231e4110,20,Female,93233,Urban,44.75,One-Year,Credit Card,24,5,26,Enterprise,2,52.72,0
+a063ce95,30,Female,68571,Suburban,36.24,Two-Year,Credit Card,17,5,21,Premium,2,44.22,0
+c14f6f71,37,Male,96577,Rural,89.82,Month-to-Month,Bitcoin,11,9,18,Premium,3,69.29,0
+da9d6a2c,26,Male,51641,Urban,146.84,Month-to-Month,Credit Card,12,1,15,Premium,5,11.01,0
+cdd91be1,49,Female,51382,Suburban,199.65,Month-to-Month,PayPal,7,9,12,Premium,2,33.84,0
+ed0f8754,41,Female,114029,Urban,85.67,Month-to-Month,Bank Transfer,1,1,11,Enterprise,3,61.29,0
+ceefc26a,48,Male,65885,Urban,121.99,Month-to-Month,PayPal,37,6,5,Enterprise,1,52.34,0
+e5005d90,44,Female,82106,Urban,137.53,Two-Year,Credit Card,14,1,15,Premium,4,89.57,0
+ffadf517,26,Male,20754,Urban,54.07,One-Year,Credit Card,30,5,20,Enterprise,2,78.41,0
+5127a4da,28,Male,39588,Suburban,98.69,Two-Year,Bank Transfer,30,4,19,Basic,5,22.54,0
+95558c9e,25,Male,83495,Rural,63.5,Month-to-Month,Credit Card,31,1,28,Enterprise,1,2.65,0
+f03b5ab9,40,Male,93367,Suburban,90.14,Month-to-Month,Bitcoin,39,6,9,Basic,2,21.97,0
+1dacecb8,18,Male,20148,Urban,188.94,One-Year,Bitcoin,58,4,17,Basic,4,77.26,0
+bca32a57,53,Male,66749,Suburban,97.37,Two-Year,Bank Transfer,43,0,0,Premium,4,1.39,0
+17cb5c78,51,Male,69520,Suburban,137.12,Month-to-Month,PayPal,42,8,26,Premium,3,62.68,0
+2c9d49f7,39,Male,21204,Urban,81.56,One-Year,Credit Card,14,3,8,Basic,1,37.53,0
+c70a932b,18,Male,86036,Rural,32.81,Month-to-Month,Bitcoin,44,0,4,Premium,2,74.69,0
+fa395668,42,Male,106654,Urban,23.13,Month-to-Month,Bitcoin,35,5,15,Enterprise,3,87.24,0
+af921e57,33,Male,107715,Suburban,20.23,Two-Year,Bitcoin,59,4,23,Basic,1,21.49,0
+6c72b6ba,55,Male,89324,Rural,88.88,Month-to-Month,PayPal,45,6,13,Basic,1,30.67,0
+02805e51,48,Female,30072,Suburban,42.77,Month-to-Month,Bank Transfer,42,5,15,Premium,1,27.53,0
+35dbb077,50,Male,49105,Urban,91.15,Month-to-Month,Bitcoin,27,9,3,Basic,4,1.37,1
+1b000b88,66,Male,110959,Urban,87.09,Month-to-Month,Bitcoin,15,4,28,Premium,2,28.36,0
+2f0a76ae,46,Male,51802,Suburban,48.36,Month-to-Month,Credit Card,39,2,12,Premium,2,48.75,0
+3a4c6bd1,24,Male,90032,Urban,179.08,One-Year,Bitcoin,18,5,14,Basic,3,80.97,1
+5a1bb93b,43,Female,40947,Rural,106.41,Month-to-Month,Bank Transfer,28,1,5,Basic,5,73.77,0
+05d35f5b,66,Female,30950,Suburban,88.6,Month-to-Month,Bitcoin,35,5,20,Basic,1,44.36,0
+4c809b36,59,Male,58020,Urban,104.74,Month-to-Month,Credit Card,52,5,6,Basic,2,49.89,0
+8ce02aaa,40,Male,110509,Urban,135.65,Month-to-Month,Bitcoin,46,1,8,Basic,5,84.38,0
+3eed6bc2,66,Male,96596,Urban,184.04,Month-to-Month,PayPal,28,7,1,Basic,1,82.03,0
+e3ac8e5e,52,Male,22279,Urban,47.85,One-Year,Credit Card,20,5,9,Premium,2,56.82,0
+5aac852f,28,Male,35282,Urban,133.05,Month-to-Month,Bank Transfer,59,2,28,Basic,4,28.34,0
+8defcebb,54,Male,30104,Urban,24.28,One-Year,Credit Card,58,5,12,Basic,5,57.13,0
+df76b520,58,Female,111960,Rural,107.18,Month-to-Month,Bank Transfer,5,1,7,Premium,3,70.3,0
+e06dd821,28,Female,104111,Urban,146.21,Month-to-Month,PayPal,46,9,25,Basic,5,67.96,0
+fe8ac394,66,Female,119224,Urban,192.18,One-Year,Credit Card,59,0,17,Premium,5,42.61,0
+a0f5fa2c,50,Female,33901,Suburban,122.25,Month-to-Month,Bitcoin,22,9,15,Basic,4,13.71,0
+ad10dcd3,26,Female,96094,Urban,66.15,Two-Year,Bitcoin,47,0,10,Basic,3,44.05,0
+de0914a1,42,Female,100752,Urban,46.37,One-Year,Credit Card,12,3,8,Enterprise,4,81.52,1
+f274f71c,47,Male,80010,Urban,51.29,Month-to-Month,PayPal,41,2,0,Premium,2,17.68,0
+d19a606f,50,Female,71256,Urban,126.43,Month-to-Month,Bitcoin,46,0,28,Premium,2,36.18,0
+13666ff2,39,Male,65653,Suburban,174.2,Month-to-Month,Bank Transfer,22,2,17,Basic,2,83.39,0
+6dfa6cbb,51,Female,48501,Urban,21.68,Month-to-Month,Bitcoin,45,3,0,Premium,1,40.32,0
+faf04052,33,Female,53279,Suburban,29.24,Month-to-Month,Bitcoin,27,1,5,Basic,4,76.06,0
+4ea8bcf0,41,Male,33454,Rural,141.59,One-Year,PayPal,20,5,17,Premium,4,61.04,0
+e6c89d55,64,Male,79213,Rural,180.87,One-Year,PayPal,54,6,11,Premium,4,92.7,0
+188f220c,65,Male,89924,Urban,159.32,Month-to-Month,Credit Card,2,0,7,Basic,4,48.47,1
+57d44d72,21,Male,32502,Suburban,63.62,One-Year,PayPal,15,1,21,Basic,4,41.93,1
+08f931b2,25,Female,68517,Suburban,63.67,Month-to-Month,PayPal,41,3,7,Basic,4,82.03,0
+777dc17d,31,Male,41327,Suburban,88.3,One-Year,Bitcoin,38,8,2,Premium,1,80.63,0
+5dd049a2,56,Male,22418,Rural,179.17,Month-to-Month,Bitcoin,57,2,0,Premium,4,69.56,0
+1c064b31,60,Female,25958,Urban,52.76,Month-to-Month,PayPal,14,0,8,Enterprise,1,73.59,0
+0916d967,47,Female,66311,Suburban,197.97,One-Year,Bitcoin,46,3,25,Premium,5,94.56,0
+52c70cea,40,Male,82985,Urban,187.43,One-Year,Bitcoin,1,7,4,Basic,2,16.03,1
+370b5cb9,19,Female,69025,Urban,145.24,One-Year,Bank Transfer,57,2,17,Premium,4,75.13,0
+f2c8728a,45,Female,86472,Suburban,148.43,Two-Year,Bitcoin,7,7,13,Basic,1,85.18,1
+2f0ab22a,36,Female,110497,Rural,197.84,One-Year,PayPal,25,7,22,Basic,2,31.36,0
+6411435d,55,Male,96070,Suburban,142.39,One-Year,Credit Card,19,2,23,Basic,1,20.59,0
+aac108aa,23,Female,97794,Urban,157.76,Two-Year,Bank Transfer,34,6,27,Basic,4,49.73,0
+7de5f6db,21,Female,79070,Urban,85.81,Two-Year,Credit Card,52,5,5,Premium,1,59.53,1
+c90a7337,24,Female,20930,Urban,94.11,One-Year,Bitcoin,18,4,26,Basic,2,96.89,0
+11fe592e,52,Female,27554,Rural,98.07,Month-to-Month,Bank Transfer,7,7,22,Basic,2,7.81,0
+2d27f514,22,Female,25980,Urban,105.18,Month-to-Month,PayPal,54,7,25,Basic,3,71.6,1
+bcd8da4c,26,Male,36746,Urban,29.8,Month-to-Month,PayPal,31,7,29,Basic,1,7.94,0
+1d1c20b3,25,Female,110292,Suburban,190.55,One-Year,Bitcoin,34,7,8,Premium,1,78.05,0
+fb6b2b97,69,Female,76618,Suburban,136.9,One-Year,Bitcoin,58,1,4,Basic,3,27.55,1
+d7701c89,68,Female,77252,Urban,53.02,Month-to-Month,PayPal,20,5,0,Premium,4,17.39,0
+d771b79c,64,Male,98940,Urban,130.68,Month-to-Month,PayPal,2,1,4,Premium,3,36.15,0
+8f45f331,23,Male,38060,Rural,179.57,Month-to-Month,Bitcoin,50,6,9,Basic,5,87.14,0
+e63fb965,33,Male,97441,Urban,62.03,Month-to-Month,Bitcoin,51,0,28,Basic,4,67.47,0
+cd800501,29,Male,60263,Urban,93.89,One-Year,Bank Transfer,43,1,12,Premium,1,4.25,0
+5739b41d,38,Female,46955,Suburban,138.31,Month-to-Month,Bitcoin,37,3,29,Basic,4,56.26,0
+f432e413,43,Female,100398,Urban,130.0,One-Year,Bitcoin,8,0,11,Premium,4,36.78,0
+42a8235c,27,Female,97658,Rural,65.03,Month-to-Month,PayPal,58,7,3,Basic,2,67.53,0
+9f89d192,26,Male,74828,Suburban,57.82,One-Year,Credit Card,31,8,25,Premium,2,39.58,0
+d6f2d738,31,Female,52600,Suburban,49.43,One-Year,Bitcoin,25,3,18,Premium,1,42.95,0
+5254041d,58,Male,26539,Urban,75.78,Two-Year,Bitcoin,14,8,17,Basic,3,32.32,1
+6d18cbad,61,Male,95741,Urban,97.55,Month-to-Month,PayPal,32,1,19,Basic,3,73.6,1
+a9c84b3c,62,Female,69483,Suburban,23.72,One-Year,PayPal,39,0,6,Basic,3,81.86,0
+7e5eb773,48,Female,78722,Urban,198.42,Month-to-Month,PayPal,56,6,0,Enterprise,1,10.44,1
+4e400521,46,Female,75165,Urban,166.73,Month-to-Month,Bitcoin,50,6,1,Basic,3,42.54,0
+c5cc59d0,62,Female,45379,Rural,125.17,Month-to-Month,Bank Transfer,46,8,13,Premium,2,89.5,0
+114306a9,27,Female,45328,Suburban,43.98,Month-to-Month,Bank Transfer,4,5,13,Premium,5,9.06,1
+e3141fb1,65,Male,76874,Suburban,21.64,Month-to-Month,PayPal,52,6,11,Premium,1,13.69,1
+a8edb159,66,Male,52579,Suburban,90.79,Month-to-Month,Bitcoin,34,6,0,Basic,5,31.59,0
+b3172d88,66,Male,87069,Suburban,133.06,One-Year,PayPal,32,2,8,Basic,2,34.32,0
+611be7dd,60,Male,104317,Rural,126.69,Month-to-Month,Bitcoin,20,8,2,Premium,2,49.75,0
+277f95af,65,Male,59021,Suburban,42.79,Month-to-Month,Credit Card,2,6,4,Basic,5,43.93,1
+99956ce6,29,Male,44851,Rural,88.7,One-Year,Credit Card,15,4,6,Basic,1,13.73,0
+0efdbac3,19,Female,101076,Urban,44.09,Two-Year,Bank Transfer,29,5,29,Basic,5,1.11,0
+c292b9fd,24,Female,119628,Suburban,105.61,Two-Year,PayPal,15,7,16,Basic,2,36.5,1
+70124ae3,68,Male,20699,Rural,136.79,Month-to-Month,PayPal,15,9,25,Basic,1,60.31,1
+6d1e058b,60,Female,43921,Urban,23.86,One-Year,PayPal,16,8,27,Premium,3,5.66,1
+bca43ec8,49,Male,109435,Suburban,98.87,Month-to-Month,PayPal,52,8,23,Basic,5,81.15,1
+17d2d143,32,Male,46116,Suburban,39.96,Month-to-Month,PayPal,56,3,14,Basic,4,17.71,1
+c1c177f6,53,Female,62547,Urban,158.09,Month-to-Month,PayPal,17,0,4,Basic,3,16.34,0
+947396d9,40,Male,21161,Urban,43.84,One-Year,Bank Transfer,33,0,10,Premium,4,68.21,1
+062943ca,19,Female,54796,Urban,66.4,Month-to-Month,Credit Card,35,7,6,Basic,3,95.47,0
+5bec7eaa,37,Female,114214,Urban,86.09,Month-to-Month,PayPal,54,7,13,Premium,2,68.91,0
+f8af9b28,43,Female,92267,Rural,132.57,Month-to-Month,PayPal,9,7,21,Basic,5,86.17,1
+40e9e933,68,Female,37256,Urban,44.1,One-Year,PayPal,42,0,19,Enterprise,3,74.46,0
+54ea9476,45,Male,40492,Suburban,139.7,One-Year,Credit Card,14,9,19,Premium,3,97.68,0
+dd9f8811,56,Male,82714,Urban,59.21,Two-Year,Bitcoin,30,3,23,Basic,3,34.99,1
+24bdcb90,27,Female,108135,Urban,24.32,Two-Year,PayPal,47,1,13,Premium,2,83.08,0
+83550959,34,Female,97148,Urban,68.58,One-Year,Bitcoin,26,3,29,Basic,3,31.14,0
+56b70ec9,32,Female,103240,Urban,76.36,Month-to-Month,Bank Transfer,36,2,28,Premium,1,21.56,0
+5625834a,46,Male,100028,Urban,70.7,One-Year,Bitcoin,15,8,17,Enterprise,2,74.63,0
+c2be40cc,32,Male,91835,Urban,95.73,Month-to-Month,Bitcoin,28,1,6,Basic,4,24.45,0
+465bcb10,58,Female,74810,Urban,76.56,Month-to-Month,PayPal,50,2,1,Premium,4,14.25,0
+e43a24a6,59,Male,94686,Urban,55.59,Month-to-Month,Bitcoin,16,9,24,Basic,2,18.89,1
+f8c847ce,43,Male,60734,Urban,73.13,Two-Year,Bitcoin,59,4,1,Premium,1,17.99,0
+e638122f,52,Male,84854,Suburban,157.15,Month-to-Month,Bitcoin,21,6,6,Basic,5,63.98,1
+9321917d,58,Female,55609,Suburban,50.12,Month-to-Month,Bank Transfer,12,6,19,Basic,5,39.06,0
+eb0fdc07,32,Male,33059,Urban,119.8,One-Year,Bank Transfer,33,6,28,Basic,4,29.3,0
+f2376162,62,Male,58095,Suburban,115.36,Month-to-Month,Bitcoin,22,8,0,Basic,3,26.19,0
+8ea25940,45,Male,113167,Urban,125.17,Month-to-Month,Bank Transfer,24,4,1,Basic,4,8.04,0
+60abd8e7,53,Female,72053,Suburban,109.57,Month-to-Month,Bitcoin,34,0,0,Basic,3,42.12,1
+9dc57788,64,Female,105953,Urban,60.58,Month-to-Month,Bank Transfer,2,6,25,Premium,3,73.71,0
+22885f66,21,Female,93758,Suburban,163.44,One-Year,Bank Transfer,27,1,22,Basic,4,81.15,0
+5a18ae3f,61,Female,41864,Urban,44.69,Month-to-Month,Bank Transfer,46,7,14,Basic,3,9.11,0
+12b105f1,25,Female,114474,Urban,175.38,Month-to-Month,Bank Transfer,35,5,11,Basic,1,96.88,0
+a90630a5,44,Female,56331,Suburban,184.21,Month-to-Month,Bitcoin,53,0,25,Basic,1,34.94,0
+3e839f99,32,Male,74065,Urban,76.48,Month-to-Month,PayPal,29,7,26,Premium,3,27.63,0
+43ed968f,52,Male,112252,Urban,169.66,Month-to-Month,Bitcoin,22,0,14,Basic,4,50.31,0
+b0d865ea,62,Male,38627,Urban,48.87,Month-to-Month,Credit Card,4,0,21,Premium,4,82.74,1
+5da6ffe3,53,Male,97955,Rural,168.96,One-Year,Bank Transfer,30,4,22,Enterprise,2,32.81,0
+2e5aae6b,35,Male,45850,Urban,109.79,Month-to-Month,Bitcoin,12,2,26,Basic,5,2.27,0
+9f60459c,21,Male,116689,Suburban,151.06,One-Year,Bitcoin,48,7,16,Basic,4,91.42,0
+50a206ee,68,Female,83196,Urban,149.92,Month-to-Month,PayPal,26,4,0,Basic,5,39.13,1
+a05da967,69,Female,29113,Urban,179.78,Two-Year,Bitcoin,18,0,23,Enterprise,3,40.13,0
+259e8105,52,Male,28582,Urban,166.69,Month-to-Month,Credit Card,14,0,13,Premium,2,29.78,0
+384451e1,45,Female,88110,Urban,100.04,One-Year,PayPal,5,5,1,Basic,5,6.88,0
+f3e2ae0d,48,Female,106763,Urban,61.19,Month-to-Month,Bitcoin,49,2,4,Basic,4,4.11,0
+8e40df1e,61,Female,119854,Rural,61.94,Month-to-Month,Bank Transfer,32,6,17,Premium,3,44.01,1
+60d6fc45,60,Male,82662,Urban,23.24,Month-to-Month,PayPal,24,3,10,Premium,2,44.71,0
+b7038f7d,67,Female,68615,Rural,194.01,Month-to-Month,PayPal,34,1,19,Basic,3,14.38,0
+a18aea43,59,Female,78907,Urban,140.89,Month-to-Month,Bank Transfer,33,4,9,Basic,2,61.86,0
+eaa4676c,40,Male,70447,Urban,32.08,One-Year,Bank Transfer,35,8,9,Basic,5,74.27,1
+d3557652,51,Male,106464,Suburban,174.55,One-Year,Bank Transfer,54,9,6,Basic,3,47.93,1
+802cb2e4,23,Female,23577,Rural,192.57,Month-to-Month,Credit Card,13,5,29,Basic,4,1.09,0
+78b2a5d6,40,Female,24472,Suburban,165.23,Month-to-Month,Credit Card,5,7,3,Basic,3,96.57,0
+6436abc3,53,Male,78647,Rural,78.4,Month-to-Month,Credit Card,39,7,10,Premium,1,47.04,0
+f950129c,35,Female,71076,Urban,148.51,Month-to-Month,Credit Card,5,6,13,Premium,3,37.05,1
+e1b180b0,61,Male,107754,Urban,122.24,Month-to-Month,Credit Card,55,5,7,Premium,2,11.61,0
+d051b525,28,Male,88951,Urban,105.57,Month-to-Month,Bitcoin,39,2,23,Premium,3,85.1,0
+f19617d5,18,Male,93916,Suburban,95.74,Month-to-Month,PayPal,58,7,12,Premium,1,14.92,0
+6f34dd22,29,Male,107775,Urban,34.12,Month-to-Month,PayPal,44,9,24,Basic,1,75.16,0
+f40ea504,33,Female,48166,Suburban,60.41,Month-to-Month,PayPal,31,7,2,Enterprise,2,27.37,0
+2da6c95a,40,Male,75287,Suburban,180.76,Month-to-Month,Credit Card,22,3,28,Premium,4,55.08,0
+48f84ee6,54,Male,88060,Urban,118.86,Month-to-Month,PayPal,23,4,1,Basic,3,54.64,0
+357fda08,55,Male,41568,Rural,78.48,Month-to-Month,Bitcoin,4,4,17,Basic,3,72.78,0
+a809e756,66,Female,108369,Urban,164.74,Two-Year,Bitcoin,52,2,13,Enterprise,3,13.32,0
+0837144f,56,Female,81994,Suburban,103.8,One-Year,Bank Transfer,32,8,7,Basic,5,17.27,1
+5e48b0d2,27,Male,84374,Suburban,57.2,Month-to-Month,Bank Transfer,12,1,19,Enterprise,4,4.83,1
+3a6aef5d,68,Male,37975,Suburban,84.4,One-Year,Bank Transfer,49,6,17,Premium,4,29.41,0
+93594da9,19,Male,50519,Rural,149.04,Month-to-Month,Credit Card,46,8,8,Basic,3,38.68,1
+a200ac36,68,Female,107533,Urban,81.0,One-Year,Bitcoin,48,7,10,Basic,3,32.99,0
+61d029d6,30,Female,69787,Rural,52.94,Month-to-Month,Bank Transfer,22,3,20,Basic,2,91.79,0
+4418b0f7,30,Male,90325,Urban,152.49,Month-to-Month,Bank Transfer,20,3,16,Premium,5,84.98,0
+acf1ba9c,66,Female,39029,Suburban,28.68,One-Year,PayPal,6,4,15,Premium,3,8.67,0
+7a387dbd,31,Female,100600,Suburban,121.69,Month-to-Month,Bitcoin,20,8,23,Premium,1,76.25,0
+60133030,39,Female,57911,Urban,151.96,One-Year,Bank Transfer,19,4,10,Premium,3,30.06,0
+365229f4,63,Male,98427,Urban,192.93,Month-to-Month,Credit Card,10,7,26,Basic,4,14.04,0
+b674f591,69,Female,47230,Suburban,113.68,One-Year,PayPal,37,2,2,Basic,2,98.94,1
+30a61321,18,Female,51400,Urban,26.68,Two-Year,Bitcoin,10,1,22,Premium,4,52.29,0
+f78db314,40,Male,93513,Suburban,150.06,Month-to-Month,Credit Card,25,4,0,Basic,2,79.92,0
+a3621db2,65,Male,107869,Rural,101.64,Month-to-Month,Credit Card,51,7,23,Premium,3,10.24,0
+5dc520b6,69,Male,116842,Urban,46.75,One-Year,Credit Card,37,5,5,Premium,1,81.58,0
+2b548260,37,Female,36371,Urban,122.68,Month-to-Month,Bank Transfer,59,2,22,Basic,4,37.95,0
+a9999e54,44,Female,63222,Suburban,148.55,One-Year,Bank Transfer,44,5,12,Premium,3,32.79,0
+e341ef4a,58,Female,69866,Urban,129.91,Month-to-Month,Bank Transfer,52,0,18,Basic,4,61.65,0
+e440ac81,62,Male,81900,Rural,141.6,One-Year,Bank Transfer,32,3,2,Premium,2,41.7,0
+ea782ae8,45,Male,75942,Urban,106.69,One-Year,Bank Transfer,40,4,19,Premium,2,73.27,0
+8c658753,41,Female,104204,Suburban,192.88,Month-to-Month,Credit Card,36,0,23,Premium,1,19.66,0
+ef419f88,28,Male,99890,Urban,114.55,Two-Year,PayPal,34,5,2,Basic,2,83.87,1
+7ca83c9a,50,Female,56640,Urban,63.23,Month-to-Month,Bank Transfer,8,7,5,Basic,4,18.67,0
+8b884db7,67,Male,79257,Suburban,176.79,Month-to-Month,Bitcoin,11,1,24,Premium,3,87.18,0
+d8f46f52,26,Male,70320,Urban,80.25,One-Year,Bitcoin,44,3,18,Premium,1,5.92,0
+47632018,67,Male,98053,Suburban,42.46,Month-to-Month,PayPal,40,2,10,Premium,5,82.8,0
+f756500d,66,Female,94668,Rural,24.6,Month-to-Month,Bitcoin,15,6,11,Premium,1,23.59,0
+a93caf02,29,Male,78600,Urban,119.61,One-Year,PayPal,52,7,15,Premium,1,61.08,0
+d3705b6a,30,Male,37229,Urban,83.08,Two-Year,Credit Card,13,3,22,Basic,3,43.18,1
+38412466,27,Male,92300,Urban,173.47,Two-Year,Bank Transfer,24,2,17,Basic,2,84.29,0
+48c82970,62,Female,117551,Rural,65.0,Month-to-Month,Bitcoin,17,4,20,Basic,4,89.13,0
+eeb30e07,39,Female,99494,Urban,57.3,Month-to-Month,Bitcoin,44,9,7,Basic,3,34.51,0
+9311c3bb,20,Female,107811,Urban,78.31,Month-to-Month,PayPal,51,4,10,Basic,3,66.41,0
+3ce21dc9,56,Female,32677,Suburban,183.61,Month-to-Month,Bank Transfer,57,9,11,Premium,4,34.23,0
+ea6783b3,27,Male,105348,Rural,41.45,One-Year,Credit Card,50,7,25,Enterprise,4,95.97,1
+601f99ae,22,Male,31711,Urban,29.44,Month-to-Month,Bitcoin,52,1,29,Basic,3,7.48,0
+37162ad9,58,Female,33169,Urban,164.73,Month-to-Month,Bank Transfer,23,0,27,Enterprise,5,25.84,0
+09b511f7,52,Female,89477,Rural,162.15,One-Year,PayPal,3,8,15,Basic,4,99.7,0
+6475a728,50,Male,94725,Suburban,54.72,Two-Year,PayPal,34,9,16,Basic,4,38.66,0
+637b6eee,63,Male,101756,Urban,53.75,Two-Year,Credit Card,56,6,9,Premium,3,76.0,1
+b0edb8b3,23,Female,118289,Suburban,54.64,Month-to-Month,Bitcoin,17,0,6,Basic,5,72.52,0
+636bd880,34,Female,25645,Urban,83.59,Two-Year,Bank Transfer,16,2,3,Premium,5,96.81,0
+bd4a5162,61,Male,80206,Urban,148.49,Month-to-Month,Credit Card,5,9,22,Premium,2,18.36,0
+129be550,50,Female,81702,Rural,109.68,Month-to-Month,PayPal,17,9,21,Premium,3,34.66,0
+4a3a9abb,68,Female,81969,Suburban,116.31,One-Year,Credit Card,53,1,23,Premium,5,44.94,0
+2fb1483f,48,Male,107926,Urban,155.58,One-Year,Bank Transfer,57,0,14,Premium,1,66.79,0
+0b35cba1,18,Female,118293,Suburban,188.8,Month-to-Month,Bank Transfer,37,5,10,Premium,3,32.44,0
+6aceb46b,38,Male,103803,Suburban,169.1,Month-to-Month,Bank Transfer,25,4,29,Basic,5,99.15,0
+dbad220d,25,Male,78126,Urban,112.39,One-Year,Credit Card,52,9,0,Basic,5,34.61,0
+49c3360c,58,Female,29802,Suburban,139.41,One-Year,Bank Transfer,18,0,2,Premium,3,44.11,0
+b50a5b3e,42,Female,64305,Suburban,179.92,Month-to-Month,Bitcoin,52,0,25,Basic,5,74.51,0
+c114db65,47,Female,66721,Suburban,43.19,Month-to-Month,Credit Card,16,5,24,Basic,5,30.78,0
+c9c6c776,21,Female,114065,Rural,111.82,One-Year,Bank Transfer,5,3,22,Premium,1,97.97,0
+1d1f4da9,23,Female,116241,Suburban,69.94,One-Year,Bank Transfer,29,7,4,Enterprise,1,75.59,0
+2fefdb26,18,Female,48949,Urban,137.96,One-Year,PayPal,9,9,17,Basic,4,32.01,0
+60d83112,41,Female,38478,Rural,181.76,Month-to-Month,Bank Transfer,3,7,10,Basic,4,31.79,0
+a9bfa20e,69,Female,95012,Suburban,193.58,Month-to-Month,PayPal,2,6,9,Basic,1,66.44,0
+67a918ad,22,Male,65170,Urban,83.03,One-Year,Bitcoin,53,3,18,Basic,1,50.01,0
+dbdf56f1,40,Male,43700,Urban,36.29,Month-to-Month,Credit Card,27,7,1,Basic,4,30.5,1
+9fbfa8ab,45,Female,31557,Urban,130.37,Month-to-Month,Bitcoin,43,6,12,Basic,2,97.86,0
+caebaeea,68,Female,116196,Suburban,167.49,One-Year,Bank Transfer,33,1,6,Premium,5,30.5,1
+674a38a3,41,Female,45076,Rural,196.41,Month-to-Month,Credit Card,38,5,15,Premium,5,44.17,0
+fd0d49b7,46,Male,57361,Urban,85.96,One-Year,PayPal,51,7,10,Enterprise,5,90.78,0
+666ed91a,50,Female,41499,Urban,153.71,Month-to-Month,Credit Card,39,1,12,Basic,1,3.17,0
+96a26214,33,Female,105525,Urban,94.9,Month-to-Month,Credit Card,50,8,0,Premium,5,83.93,0
+0d012ec5,35,Male,69842,Rural,172.98,Month-to-Month,Credit Card,25,0,20,Enterprise,1,38.46,0
+3cde1ff8,41,Male,105419,Urban,192.51,One-Year,Bank Transfer,48,3,19,Basic,3,26.54,0
+fc4abceb,59,Male,75289,Urban,172.41,Month-to-Month,Bank Transfer,23,3,11,Basic,2,80.28,0
+bac2e67e,38,Male,77899,Suburban,167.29,Month-to-Month,PayPal,10,2,9,Enterprise,2,19.09,0
+c96d1688,63,Male,44910,Urban,181.17,Month-to-Month,Bank Transfer,5,3,13,Enterprise,4,16.94,0
+b1cd6c84,43,Female,90534,Urban,130.31,Month-to-Month,Bank Transfer,8,5,29,Basic,1,31.88,1
+1e3716ca,64,Male,104522,Urban,138.8,One-Year,PayPal,1,4,2,Basic,3,34.24,0
+ececd67c,34,Female,100853,Urban,78.3,Month-to-Month,Bank Transfer,55,9,20,Premium,2,15.6,0
+232b2cad,60,Female,74966,Rural,110.77,Month-to-Month,Bank Transfer,23,1,3,Basic,3,88.24,1
+e3945be5,20,Male,87686,Suburban,198.34,Month-to-Month,Credit Card,39,0,21,Basic,4,13.54,0
+4a477ffc,62,Female,65033,Rural,68.35,One-Year,Bank Transfer,16,5,27,Basic,5,19.11,0
+77c698ca,31,Male,58529,Urban,165.52,One-Year,Bank Transfer,57,8,22,Basic,1,56.65,1
+6ecf64ab,32,Female,20618,Suburban,22.45,One-Year,Bitcoin,57,5,6,Premium,4,57.87,0
+ce1c579c,26,Female,79323,Rural,197.47,Month-to-Month,Bank Transfer,41,3,5,Basic,4,10.98,0
+a5616066,46,Male,65597,Rural,55.6,Month-to-Month,PayPal,34,6,9,Enterprise,2,63.36,0
+8f5605b5,52,Female,61784,Urban,187.17,Month-to-Month,PayPal,32,5,1,Basic,1,16.08,1
+36fa5e95,48,Male,88858,Suburban,160.05,Month-to-Month,Credit Card,57,2,29,Basic,1,44.13,1
+5a9e2ca3,46,Female,29917,Urban,56.55,Month-to-Month,PayPal,9,7,27,Premium,1,46.97,1
+3b7862c7,36,Female,47598,Urban,170.74,One-Year,PayPal,44,3,12,Premium,1,89.58,0
+f53536e0,42,Female,52338,Rural,182.65,Month-to-Month,PayPal,19,5,9,Premium,5,73.62,0
+f67304e5,19,Female,75466,Rural,63.66,Month-to-Month,Bank Transfer,51,4,25,Basic,1,50.69,1
+ebf24d79,32,Male,71143,Suburban,119.35,Month-to-Month,Credit Card,22,1,17,Premium,1,94.46,0
+c2093b89,61,Female,53589,Urban,175.51,One-Year,PayPal,27,2,24,Premium,5,20.29,0
+0e974fb5,27,Female,107943,Urban,184.29,Two-Year,PayPal,6,3,6,Basic,2,24.49,0
+a7aee04c,67,Male,83826,Suburban,111.29,One-Year,Bitcoin,33,0,7,Premium,5,42.81,0
+19c78918,61,Male,66079,Urban,50.96,Month-to-Month,PayPal,46,5,4,Basic,1,77.85,0
+70f94caf,48,Female,27440,Suburban,185.54,Month-to-Month,Credit Card,45,2,21,Premium,4,20.78,0
+7c905d25,53,Female,114089,Suburban,115.69,Month-to-Month,Bank Transfer,16,6,17,Premium,5,97.71,0
+ea6bdd14,41,Male,76331,Urban,142.24,Month-to-Month,Credit Card,27,1,10,Premium,4,12.56,0
+e42cd2e6,22,Male,24353,Suburban,65.49,Month-to-Month,PayPal,18,4,19,Basic,2,45.25,0
+39b841c0,58,Male,58806,Rural,49.3,Two-Year,Bitcoin,13,5,25,Basic,4,25.01,1
+1d6b54e2,51,Female,107193,Urban,163.06,One-Year,PayPal,52,1,8,Basic,3,16.8,0
+d92b064c,42,Female,33035,Urban,143.8,Month-to-Month,PayPal,37,2,25,Basic,5,45.68,1
+8b7fef66,41,Female,107544,Urban,80.04,Month-to-Month,Bitcoin,40,0,18,Basic,2,18.45,1
+03f1a305,29,Male,117562,Suburban,39.57,Month-to-Month,PayPal,34,7,16,Basic,3,9.05,1
+b67d1b5e,34,Male,22906,Urban,31.23,Month-to-Month,Bitcoin,26,4,11,Basic,2,55.45,0
+5b690c1c,42,Male,23618,Suburban,41.06,Month-to-Month,Credit Card,49,4,23,Basic,3,26.26,0
+5f7ee652,62,Female,40591,Suburban,99.03,Month-to-Month,Credit Card,1,7,8,Premium,5,28.94,1
+f5a21270,25,Male,98740,Urban,80.06,Two-Year,PayPal,3,3,2,Basic,4,57.25,0
+ccbbe07a,52,Male,50107,Urban,23.5,Month-to-Month,PayPal,13,8,16,Premium,2,65.78,0
+dca45d13,60,Male,105684,Suburban,34.33,Month-to-Month,PayPal,3,4,0,Premium,5,59.19,0
+2ead8d9f,46,Male,111007,Suburban,193.35,Month-to-Month,PayPal,33,9,6,Basic,4,95.75,1
+426dcdf9,67,Male,52494,Suburban,151.37,Month-to-Month,Bitcoin,52,2,19,Basic,2,58.76,1
+84067c8d,37,Male,53581,Urban,107.41,Month-to-Month,Bank Transfer,13,5,27,Basic,2,63.47,0
+7495d37d,39,Female,21161,Urban,129.36,Month-to-Month,Bitcoin,27,8,11,Enterprise,5,73.48,0
+9b81106e,52,Male,93398,Urban,172.8,Month-to-Month,Bank Transfer,44,0,25,Premium,1,37.96,0
+2cb55192,44,Male,29397,Rural,182.26,One-Year,Bitcoin,24,6,11,Basic,4,67.61,0
+c01f491c,22,Male,119878,Urban,42.56,Month-to-Month,Bank Transfer,14,0,29,Premium,2,51.25,0
+a4b585a1,61,Male,30876,Urban,99.51,One-Year,Bitcoin,10,6,15,Premium,5,58.88,1
+01b314ec,54,Male,97536,Urban,101.46,Month-to-Month,Bank Transfer,48,8,20,Basic,4,28.54,0
+f8ce3d72,64,Female,110767,Urban,138.88,Month-to-Month,Bitcoin,7,3,5,Premium,1,31.27,0
+c56a5d49,45,Female,89951,Urban,106.47,Month-to-Month,PayPal,46,8,7,Premium,3,51.67,0
+5c14e8df,69,Female,103374,Urban,117.2,Month-to-Month,Bank Transfer,20,6,21,Premium,1,2.23,1
+17c4b6de,48,Male,45265,Rural,46.52,One-Year,Bank Transfer,22,0,29,Premium,3,26.43,0
+e404ddf2,25,Male,45226,Urban,192.35,Month-to-Month,Bitcoin,25,7,21,Premium,4,99.76,0
+9bd85624,36,Male,46193,Suburban,87.19,Month-to-Month,PayPal,25,2,24,Basic,1,81.5,0
+e8844859,23,Male,26648,Urban,110.86,Month-to-Month,Bank Transfer,6,5,9,Basic,3,98.31,1
+ffc03912,45,Male,97095,Urban,59.91,One-Year,Credit Card,57,5,27,Basic,3,81.27,1
+d9b322d5,18,Male,79790,Urban,75.94,Month-to-Month,PayPal,23,5,3,Basic,2,70.8,0
+ca12c6c9,25,Male,93388,Urban,152.19,Month-to-Month,Bitcoin,23,3,0,Premium,1,36.78,0
+94eacc57,61,Female,80687,Suburban,117.89,One-Year,Bank Transfer,22,5,4,Enterprise,2,23.04,0
+4c0499a3,41,Female,115072,Rural,163.86,Month-to-Month,Credit Card,57,7,17,Basic,2,86.49,1
+793bbdf1,63,Male,24038,Urban,88.56,Month-to-Month,Bank Transfer,32,9,12,Basic,4,91.85,0
+396c4cc4,25,Female,93969,Urban,164.33,Month-to-Month,Bitcoin,8,7,26,Premium,2,94.12,0
+2b67fcde,39,Female,50142,Urban,25.13,Month-to-Month,Bank Transfer,50,2,18,Premium,2,15.64,1
+209313d3,69,Female,69483,Urban,168.97,Month-to-Month,Bank Transfer,22,1,4,Premium,1,69.54,0
+37e3d194,24,Male,91556,Rural,144.42,One-Year,Bank Transfer,30,2,24,Enterprise,4,49.44,0
+cc9eb45b,47,Female,58915,Urban,99.47,One-Year,PayPal,25,6,12,Basic,3,38.11,1
+eb77352e,42,Male,50174,Urban,24.56,One-Year,Bank Transfer,19,6,17,Basic,2,76.53,0
+20b84a69,39,Female,108948,Suburban,146.77,Month-to-Month,Bank Transfer,15,4,7,Basic,2,56.88,1
+0bae3cc3,26,Female,45064,Rural,126.5,One-Year,Credit Card,34,0,9,Premium,5,24.87,0
+dc3ef878,42,Female,105745,Urban,184.44,Month-to-Month,Bitcoin,2,2,11,Basic,4,83.98,1
+b17a6cce,22,Male,44996,Suburban,118.66,Two-Year,Bank Transfer,2,7,1,Premium,1,31.01,0
+89d741df,27,Female,94547,Urban,141.04,One-Year,PayPal,20,1,5,Premium,3,17.15,0
+85bb77db,20,Female,44027,Suburban,36.32,Month-to-Month,Credit Card,51,3,11,Premium,1,85.24,0
+506ebb73,66,Male,56186,Urban,143.36,One-Year,Bitcoin,10,4,17,Basic,3,87.77,0
+b0376710,55,Female,44655,Suburban,83.44,One-Year,PayPal,57,4,21,Enterprise,4,27.21,0
+a04ea3ff,51,Female,33196,Urban,119.99,Month-to-Month,PayPal,10,6,9,Basic,3,51.94,1
+233602d1,42,Male,117597,Urban,136.48,Month-to-Month,Bitcoin,27,1,24,Basic,5,4.96,0
+07604f5d,57,Male,51331,Suburban,126.65,Two-Year,Bitcoin,39,8,1,Enterprise,2,62.38,0
+0c5a8453,27,Male,44693,Urban,21.32,Month-to-Month,Bitcoin,12,1,11,Basic,2,13.47,1
+aa362f0c,45,Male,97695,Urban,65.5,Month-to-Month,Bitcoin,38,6,3,Premium,4,4.76,0
+a8ee9bcc,50,Female,113967,Suburban,132.54,One-Year,Credit Card,38,0,6,Basic,2,61.59,0
+2a128b2e,61,Female,106230,Urban,34.36,Month-to-Month,Credit Card,21,9,11,Premium,3,82.0,0
+b3749400,39,Female,80617,Suburban,22.91,Month-to-Month,Credit Card,23,0,28,Premium,4,85.07,0
+ca233edb,38,Male,32764,Urban,115.39,One-Year,Credit Card,18,9,13,Basic,1,9.59,1
+109844d5,35,Male,86554,Urban,119.41,Month-to-Month,PayPal,11,8,6,Premium,1,59.17,0
+5fe19fb6,28,Male,65650,Suburban,110.58,Month-to-Month,Bank Transfer,1,9,20,Premium,4,8.64,1
+340e3879,65,Female,30530,Urban,25.83,Two-Year,PayPal,58,7,25,Premium,3,60.68,0
+16b91f59,21,Male,37752,Urban,65.77,Month-to-Month,PayPal,55,6,27,Basic,2,3.67,1
+53c20384,42,Female,61159,Suburban,36.27,Month-to-Month,Credit Card,3,4,5,Basic,2,47.13,0
+f4b126a6,23,Male,61916,Rural,34.83,Month-to-Month,Bank Transfer,50,3,26,Premium,4,84.6,0
+14af7d8d,42,Female,112398,Suburban,96.16,One-Year,Credit Card,41,4,11,Basic,4,36.31,0
+4567084d,37,Male,116419,Suburban,26.67,One-Year,Bitcoin,37,3,5,Premium,4,30.9,0
+50a24325,39,Male,68092,Suburban,155.59,Month-to-Month,Bitcoin,55,7,26,Enterprise,3,48.44,0
+f89e2e18,63,Female,25016,Suburban,106.36,Month-to-Month,Bitcoin,55,8,11,Basic,4,5.48,0
+e8478c30,48,Female,54673,Urban,48.74,Two-Year,Credit Card,39,9,23,Premium,4,70.32,0
+b78f7fed,54,Female,39741,Suburban,75.2,Month-to-Month,Bank Transfer,50,6,1,Premium,4,52.65,0
+4c4d88df,62,Male,21081,Urban,128.94,One-Year,Credit Card,49,0,3,Premium,1,88.47,1
+da435adc,56,Male,84103,Urban,82.32,Month-to-Month,Bank Transfer,47,1,12,Basic,3,43.55,0
+9ecb3bef,28,Male,88761,Suburban,33.54,Month-to-Month,Bitcoin,18,2,19,Premium,3,79.33,0
+85498b2c,54,Male,72884,Urban,188.72,Month-to-Month,Bank Transfer,49,9,0,Premium,1,28.04,1
+9e1a9932,28,Female,31566,Urban,107.11,Month-to-Month,Bitcoin,40,1,28,Basic,5,68.56,0
+f7ca602a,35,Female,104737,Suburban,102.96,Month-to-Month,Bitcoin,20,3,7,Premium,2,99.47,1
+5c122383,67,Male,111554,Urban,187.58,Month-to-Month,Credit Card,33,5,4,Premium,4,47.9,0
+1581b921,43,Male,84322,Suburban,155.74,Month-to-Month,Credit Card,48,0,18,Premium,2,77.55,0
+151a462a,32,Male,74045,Rural,183.48,One-Year,Bitcoin,5,4,2,Basic,3,87.44,0
+710b0a7f,47,Male,70824,Urban,40.27,One-Year,Credit Card,34,3,1,Premium,2,29.78,0
+7dada0a3,24,Male,35875,Urban,80.19,One-Year,PayPal,53,8,6,Basic,5,95.13,0
+9a293116,34,Male,29965,Rural,150.89,One-Year,Credit Card,48,5,4,Premium,4,19.32,1
+72f3be4a,38,Female,63517,Suburban,121.19,Month-to-Month,Bank Transfer,19,0,10,Basic,3,66.65,1
+3886532a,69,Male,76322,Rural,29.25,Month-to-Month,PayPal,55,3,14,Basic,2,68.34,0
+2735ffcd,38,Female,32244,Urban,87.54,Month-to-Month,Bank Transfer,40,4,26,Basic,4,71.33,0
+a665d163,64,Male,100378,Suburban,116.01,Month-to-Month,Bitcoin,6,8,7,Premium,1,9.11,0
+73119947,65,Male,28483,Urban,39.48,Month-to-Month,Bank Transfer,18,8,0,Premium,3,97.83,0
+bda929b5,32,Female,60711,Urban,116.06,One-Year,Credit Card,22,1,17,Basic,4,97.69,0
+f56266e5,39,Male,74211,Rural,129.42,Month-to-Month,Credit Card,16,8,24,Basic,4,20.78,0
+952222bd,58,Female,116777,Urban,184.77,Month-to-Month,Credit Card,44,1,1,Basic,5,36.61,0
+4f480d73,60,Male,36640,Suburban,122.06,Month-to-Month,Bank Transfer,10,5,24,Basic,1,85.94,1
+f80f627a,40,Male,51804,Urban,47.16,Month-to-Month,Bitcoin,21,1,22,Basic,3,87.34,0
+48063334,48,Female,74009,Suburban,156.82,One-Year,PayPal,51,3,5,Basic,5,70.33,0
+bbbd4ddf,44,Male,57292,Rural,172.1,Month-to-Month,Bitcoin,9,3,9,Basic,5,69.25,1
+3a2973a3,38,Female,94152,Urban,172.71,Two-Year,Bank Transfer,20,1,12,Basic,4,6.64,0
+4491eca9,62,Male,50933,Urban,189.63,Month-to-Month,PayPal,40,3,17,Basic,3,76.07,0
+e813509f,24,Female,78309,Urban,51.88,Month-to-Month,PayPal,18,6,15,Premium,1,58.18,0
+5d98b92c,49,Male,98642,Urban,28.72,Month-to-Month,Credit Card,56,7,4,Enterprise,5,65.27,1
+846b689e,49,Male,50641,Suburban,126.91,Month-to-Month,PayPal,34,1,5,Basic,1,19.43,0
+3d4567c4,34,Male,88048,Urban,59.8,Month-to-Month,Credit Card,47,1,22,Basic,4,58.28,0
+08ae7263,37,Female,90969,Urban,70.45,Month-to-Month,Bank Transfer,27,4,15,Basic,1,63.38,1
+e9164744,42,Female,72165,Urban,43.16,Month-to-Month,PayPal,42,8,21,Premium,4,60.83,0
+2f64478d,32,Male,87729,Urban,149.68,Month-to-Month,PayPal,38,0,6,Basic,5,39.46,0
+e9893ad3,48,Male,102392,Suburban,71.41,One-Year,Bitcoin,1,0,18,Premium,4,98.59,0
+e524c3df,63,Female,56428,Rural,104.19,Two-Year,Bank Transfer,16,3,22,Basic,1,56.39,0
+81cc6c1b,40,Female,32226,Urban,109.64,Two-Year,Bitcoin,49,3,5,Premium,1,92.37,1
+5c9c82b2,65,Male,55246,Urban,80.73,One-Year,Bank Transfer,55,0,6,Basic,4,92.59,0
+f222351a,66,Male,95915,Suburban,149.51,One-Year,Credit Card,12,6,6,Basic,2,75.68,0
+ad39a066,62,Female,106271,Rural,73.69,Month-to-Month,Bitcoin,30,2,7,Basic,4,70.57,1
+66fd0573,19,Female,111072,Urban,193.09,Month-to-Month,PayPal,11,4,14,Enterprise,5,79.0,0
+17851a69,26,Female,32506,Urban,154.47,Month-to-Month,Bank Transfer,12,0,1,Premium,5,85.5,0
+a3099271,41,Female,23375,Suburban,192.59,One-Year,PayPal,58,0,19,Basic,3,92.93,0
+b4d6e5ec,23,Male,75707,Urban,154.64,Month-to-Month,Bank Transfer,4,6,6,Enterprise,5,97.2,1
+770d392b,46,Male,26494,Rural,198.13,One-Year,Bank Transfer,47,2,25,Premium,1,40.03,1
+345375f4,40,Male,54378,Rural,59.42,Month-to-Month,Bank Transfer,14,6,7,Basic,3,34.31,0
+3e163f7a,55,Male,28737,Urban,84.96,Two-Year,Bank Transfer,51,4,22,Basic,2,11.4,0
+eb126085,66,Male,74701,Suburban,21.08,One-Year,Credit Card,49,7,2,Basic,2,85.58,0
+97b5c455,51,Female,37121,Suburban,63.87,One-Year,Bank Transfer,28,2,12,Basic,1,65.85,0
+697257e2,64,Male,23246,Urban,34.71,One-Year,Bank Transfer,5,9,27,Basic,3,30.35,0
+45bd6eb3,19,Female,67187,Urban,139.21,One-Year,Bitcoin,38,3,13,Basic,4,70.25,0
+db36dd9e,58,Female,111016,Suburban,48.59,Month-to-Month,Bank Transfer,41,6,5,Enterprise,1,85.74,1
+aed4288b,42,Male,92830,Urban,149.29,Month-to-Month,Credit Card,23,2,10,Premium,1,54.76,0
+7172d998,57,Male,79523,Urban,194.97,One-Year,Bitcoin,27,9,23,Basic,2,69.64,0
+68c91e5e,24,Male,34113,Urban,55.79,Month-to-Month,PayPal,33,9,8,Premium,5,32.51,0
+b8499819,21,Female,55577,Urban,40.98,Month-to-Month,Bitcoin,3,2,6,Enterprise,1,11.16,1
+9caab024,35,Male,108446,Suburban,85.08,Month-to-Month,Credit Card,41,5,11,Premium,1,32.52,0
+adcf0982,47,Female,90364,Urban,183.86,Month-to-Month,Bank Transfer,11,4,13,Basic,1,68.63,0
+612388a9,62,Female,31615,Suburban,116.81,Two-Year,Bitcoin,7,1,6,Basic,4,86.99,1
+ce71a10c,40,Female,70122,Urban,55.17,Month-to-Month,PayPal,34,0,5,Premium,1,83.02,1
+3dc71932,48,Female,107564,Suburban,30.53,One-Year,Credit Card,10,8,21,Basic,2,54.88,1
+9ca04789,28,Female,45333,Urban,113.42,Month-to-Month,Bank Transfer,20,6,21,Premium,2,99.12,0
+d265fa2b,34,Male,118611,Suburban,42.12,Month-to-Month,Credit Card,38,9,9,Basic,2,3.05,0
+e315987b,25,Male,32529,Rural,21.21,Month-to-Month,Credit Card,46,9,22,Basic,5,97.37,1
+ad60b3ac,41,Female,114433,Urban,123.69,Month-to-Month,Bank Transfer,53,7,3,Basic,1,46.99,1
+2db797e5,44,Male,66668,Urban,149.86,Month-to-Month,Bitcoin,10,4,19,Basic,1,72.04,0
+58b5aafe,62,Female,97334,Urban,115.73,Month-to-Month,Bitcoin,23,7,28,Premium,4,11.47,0
+1ca92326,22,Male,66752,Urban,26.6,One-Year,PayPal,26,8,2,Premium,5,65.83,1
+066bef42,42,Male,62915,Urban,175.89,Month-to-Month,Bank Transfer,5,6,9,Premium,5,82.71,0
+d3517aa3,45,Female,49997,Suburban,83.57,One-Year,Bank Transfer,24,0,17,Basic,4,28.97,1
+55e35326,34,Male,82359,Suburban,149.7,One-Year,Bitcoin,58,6,25,Premium,2,11.27,0
+c44795d7,64,Male,77301,Suburban,196.48,One-Year,Credit Card,10,7,2,Basic,2,43.93,0
+e9cae53f,38,Male,52626,Urban,113.36,Month-to-Month,Bank Transfer,48,0,16,Premium,2,92.1,1
+747e15df,22,Female,80653,Urban,119.5,One-Year,PayPal,54,7,12,Basic,3,32.07,1
+bda821bc,64,Female,58741,Urban,71.59,Month-to-Month,Credit Card,56,2,0,Basic,3,57.5,1
+fc76a7df,48,Female,43751,Rural,186.15,Month-to-Month,PayPal,36,5,22,Basic,1,15.9,0
+6a38253f,24,Female,58586,Suburban,56.77,Month-to-Month,Bitcoin,6,2,18,Premium,5,60.0,0
+12f11aef,20,Male,111976,Urban,76.16,One-Year,Bitcoin,55,7,27,Premium,3,17.96,0
+5d2a01b7,59,Male,108045,Rural,28.47,Month-to-Month,Bitcoin,18,0,15,Basic,4,70.37,1
+ea96d214,28,Male,105488,Rural,182.95,Month-to-Month,PayPal,37,8,13,Enterprise,3,47.43,0
+31463644,36,Female,28276,Urban,195.53,One-Year,PayPal,40,0,5,Basic,4,70.47,0
+9e458160,52,Male,28750,Urban,121.22,One-Year,PayPal,17,5,13,Premium,5,12.22,0
+2b1e436c,45,Male,94331,Urban,50.33,One-Year,Bitcoin,57,3,27,Premium,3,96.47,0
+91c1ff8c,63,Female,82196,Urban,161.43,Two-Year,Bitcoin,21,4,7,Premium,2,97.4,0
+610c4f12,63,Female,27619,Suburban,149.88,Two-Year,PayPal,8,7,13,Basic,5,92.13,1
+ddcba5ca,27,Male,25447,Urban,106.06,One-Year,Credit Card,13,3,27,Basic,2,18.57,0
+3b9c01dc,58,Male,27682,Suburban,164.94,One-Year,Bitcoin,26,6,9,Basic,1,32.1,0
+52db9008,50,Male,25771,Rural,98.14,One-Year,Credit Card,35,1,7,Enterprise,3,69.29,0
+47aca704,62,Male,83365,Suburban,173.06,Month-to-Month,Credit Card,5,8,19,Enterprise,3,96.75,0
+c77d2c39,35,Male,84298,Urban,115.64,Month-to-Month,Bank Transfer,58,3,9,Basic,5,14.91,1
+31317816,67,Female,90063,Rural,130.45,One-Year,Credit Card,54,1,2,Basic,5,22.25,1
+ffbd4974,58,Male,28585,Rural,59.85,Month-to-Month,Bank Transfer,43,4,19,Basic,1,6.79,1
+b445af3f,34,Female,52013,Urban,82.63,Month-to-Month,Bank Transfer,4,7,17,Premium,5,28.61,0
+fc85f9e7,67,Female,48399,Suburban,84.22,One-Year,PayPal,9,8,22,Premium,3,41.91,0
+df099641,39,Female,78492,Suburban,87.87,Month-to-Month,PayPal,40,6,7,Premium,3,93.32,0
+af4a8eca,31,Male,62103,Suburban,88.48,One-Year,Credit Card,33,5,8,Basic,1,82.1,0
+caa4e0e2,53,Female,94206,Urban,74.42,Month-to-Month,Bank Transfer,7,3,3,Basic,4,90.13,1
+b2537eab,47,Male,60990,Suburban,45.28,Month-to-Month,Credit Card,27,2,19,Basic,5,55.57,0
+deba2562,37,Female,106083,Suburban,162.15,Month-to-Month,PayPal,19,2,19,Basic,5,24.07,0
+d9a2e7c1,58,Male,46135,Rural,94.56,Month-to-Month,Bank Transfer,30,7,7,Premium,2,7.55,0
+9da44e13,30,Male,33051,Urban,61.14,Month-to-Month,Bank Transfer,55,3,12,Basic,4,44.38,0
+a362ee82,66,Male,104421,Urban,107.9,One-Year,Bank Transfer,40,1,25,Premium,2,62.88,0
+2fc8ab34,60,Female,106569,Urban,67.25,One-Year,Bank Transfer,50,6,19,Enterprise,4,62.67,0
+101504c5,24,Female,119862,Suburban,21.56,Two-Year,Credit Card,48,7,21,Enterprise,1,6.56,0
+a6c01faf,40,Female,110222,Suburban,160.2,Month-to-Month,Bitcoin,23,5,29,Basic,2,14.38,0
+30a90219,28,Female,80909,Urban,137.49,Month-to-Month,Bitcoin,16,6,6,Premium,4,60.54,0
+714dd9e7,29,Female,33202,Urban,90.8,Month-to-Month,PayPal,56,6,0,Premium,5,75.77,0
+c9e791d8,66,Male,95079,Urban,23.99,Month-to-Month,Credit Card,7,4,11,Basic,3,84.35,1
+24d1a445,62,Male,115144,Suburban,24.2,Month-to-Month,Bitcoin,35,5,25,Basic,2,54.44,0
+75933766,19,Male,119954,Suburban,30.52,Month-to-Month,Credit Card,6,9,4,Basic,2,7.17,1
+1793ee3a,51,Female,52430,Urban,114.86,Month-to-Month,Bitcoin,27,4,28,Premium,5,41.23,0
+6b290d17,50,Male,46745,Urban,83.11,Month-to-Month,Credit Card,25,3,16,Premium,4,69.71,0
+44be1b9e,36,Male,59008,Urban,50.17,One-Year,PayPal,16,3,22,Basic,5,2.92,0
+67bdfc15,59,Male,110701,Urban,24.15,Month-to-Month,PayPal,55,8,19,Basic,2,97.02,0
+6576a102,49,Female,74833,Urban,114.15,Month-to-Month,PayPal,9,7,11,Premium,2,78.14,1
+3e379509,66,Female,87435,Suburban,61.98,Month-to-Month,Credit Card,53,0,7,Premium,5,75.31,0
